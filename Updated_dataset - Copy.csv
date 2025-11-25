@@ -1,0 +1,741 @@
+ID,Reason for absence,Month of absence,Day of the week,Season,Transportation expense,Distance from Residence to Work,Service time,Age,Work load Average/day ,Hit target,Disciplinary Failure,Education,Son,Social Drinker,Social Smoker,Pet,Weight,Height,Body mass index,Absenteeism time in hours
+11,Unjustified absence,July,Tuesday,winter,289,36,13,33,"239,554",97,no,High School,2,yes,no,1,90,172,30,4
+36,No diagnosis / Not classified,July,Tuesday,winter,118,13,18,50,"239,554",97,yes,High School,1,yes,no,0,98,178,31,0
+3,Medical consultation,July,Wednesday,winter,179,51,18,38,"239,554",97,no,High School,0,yes,no,0,89,170,31,2
+7,Diseases of the eye and adnexa,July,Thursday,winter,279,5,14,39,"239,554",97,no,High School,2,yes,yes,0,68,168,24,4
+11,Medical consultation,July,Thursday,winter,289,36,13,33,"239,554",97,no,High School,2,yes,no,1,90,172,30,2
+3,Medical consultation,July,Friday,winter,179,51,18,38,"239,554",97,no,High School,0,yes,no,0,89,170,31,2
+10,Patient follow-up,July,Friday,winter,361,52,3,28,"239,554",97,no,High School,1,yes,no,4,80,172,27,8
+20,Medical consultation,July,Friday,winter,260,50,11,36,"239,554",97,no,High School,4,yes,no,0,65,168,23,4
+14,"Injury, poisoning and other consequences of external causes",July,Monday,winter,155,12,14,34,"239,554",97,no,High School,2,yes,no,0,95,196,25,40
+1,Patient follow-up,July,Monday,winter,235,11,14,37,"239,554",97,no,Master,1,no,no,1,88,172,29,8
+20,Certain infectious and parasitic diseases,July,Monday,winter,260,50,11,36,"239,554",97,no,High School,4,yes,no,0,65,168,23,8
+20,Certain infectious and parasitic diseases,July,Tuesday,winter,260,50,11,36,"239,554",97,no,High School,4,yes,no,0,65,168,23,8
+20,Diseases of the digestive system,July,Wednesday,winter,260,50,11,36,"239,554",97,no,High School,4,yes,no,0,65,168,23,8
+3,Diseases of the digestive system,July,Wednesday,winter,179,51,18,38,"239,554",97,no,High School,0,yes,no,0,89,170,31,1
+3,Medical consultation,July,Wednesday,winter,179,51,18,38,"239,554",97,no,High School,0,yes,no,0,89,170,31,4
+24,Diseases of the genitourinary system,July,Friday,winter,246,25,16,41,"239,554",97,no,High School,0,yes,no,0,67,170,23,8
+3,Medical consultation,July,Friday,winter,179,51,18,38,"239,554",97,no,High School,0,yes,no,0,89,170,31,2
+3,Factors influencing health status and contact with health services,July,Monday,winter,179,51,18,38,"239,554",97,no,High School,0,yes,no,0,89,170,31,8
+6,Diseases of the digestive system,July,Thursday,winter,189,29,13,33,"239,554",97,no,High School,2,no,no,2,69,167,25,8
+33,Medical consultation,August,Wednesday,winter,248,25,14,47,"205,917",92,no,High School,2,no,no,1,86,165,32,2
+18,Diseases of the respiratory system,August,Wednesday,winter,330,16,4,28,"205,917",92,no,Post Graduate,0,no,no,0,84,182,25,8
+3,Diseases of the digestive system,August,Monday,winter,179,51,18,38,"205,917",92,no,High School,0,yes,no,0,89,170,31,1
+10,Diseases of the musculoskeletal system and connective tissue,August,Monday,winter,361,52,3,28,"205,917",92,no,High School,1,yes,no,4,80,172,27,40
+20,Dental consultation,August,Friday,winter,260,50,11,36,"205,917",92,no,High School,4,yes,no,0,65,168,23,4
+11,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,winter,289,36,13,33,"205,917",92,no,High School,2,yes,no,1,90,172,30,8
+10,Laboratory examination,August,Monday,winter,361,52,3,28,"205,917",92,no,High School,1,yes,no,4,80,172,27,7
+11,Medical consultation,August,Tuesday,winter,289,36,13,33,"205,917",92,no,High School,2,yes,no,1,90,172,30,1
+30,Dental consultation,August,Wednesday,winter,157,27,6,29,"205,917",92,no,High School,0,yes,yes,0,75,185,22,4
+11,"Symptoms, signs and abnormal clinical and laboratory findings",August,Wednesday,winter,289,36,13,33,"205,917",92,no,High School,2,yes,no,1,90,172,30,8
+3,Medical consultation,August,Friday,winter,179,51,18,38,"205,917",92,no,High School,0,yes,no,0,89,170,31,2
+3,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,winter,179,51,18,38,"205,917",92,no,High School,0,yes,no,0,89,170,31,8
+2,"Symptoms, signs and abnormal clinical and laboratory findings",August,Thursday,winter,235,29,12,48,"205,917",92,no,High School,1,no,yes,5,88,163,33,8
+1,Medical consultation,August,Thursday,winter,235,11,14,37,"205,917",92,no,Master,1,no,no,1,88,172,29,4
+2,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,winter,235,29,12,48,"205,917",92,no,High School,1,no,yes,5,88,163,33,8
+3,Medical consultation,August,Monday,winter,179,51,18,38,"205,917",92,no,High School,0,yes,no,0,89,170,31,2
+10,Medical consultation,August,Monday,winter,361,52,3,28,"205,917",92,no,High School,1,yes,no,4,80,172,27,1
+11,Blood donation,August,Tuesday,winter,289,36,13,33,"205,917",92,no,High School,2,yes,no,1,90,172,30,8
+19,Diseases of the digestive system,August,Thursday,winter,291,50,12,32,"205,917",92,no,High School,0,yes,no,0,65,169,23,4
+2,Dental consultation,August,Friday,winter,235,29,12,48,"205,917",92,no,High School,1,no,yes,5,88,163,33,8
+20,Medical consultation,August,Friday,winter,260,50,11,36,"205,917",92,no,High School,4,yes,no,0,65,168,23,4
+27,Medical consultation,September,Tuesday,winter,184,42,7,27,"241,476",92,no,High School,0,no,no,0,58,167,21,2
+34,Medical consultation,September,Monday,winter,118,10,10,37,"241,476",92,no,High School,0,no,no,0,83,172,28,4
+3,Medical consultation,September,Tuesday,winter,179,51,18,38,"241,476",92,no,High School,0,yes,no,0,89,170,31,4
+5,"Injury, poisoning and other consequences of external causes",September,Tuesday,winter,235,20,13,43,"241,476",92,no,High School,1,yes,no,0,106,167,38,8
+14,Medical consultation,September,Wednesday,winter,155,12,14,34,"241,476",92,no,High School,2,yes,no,0,95,196,25,2
+34,Medical consultation,September,Monday,winter,118,10,10,37,"241,476",92,no,High School,0,no,no,0,83,172,28,3
+3,Medical consultation,September,Tuesday,winter,179,51,18,38,"241,476",92,no,High School,0,yes,no,0,89,170,31,3
+15,Medical consultation,September,Thursday,winter,291,31,12,40,"241,476",92,no,High School,1,yes,no,1,73,171,25,4
+20,Patient follow-up,September,Friday,winter,260,50,11,36,"241,476",92,no,High School,4,yes,no,0,65,168,23,8
+15,Diseases of the genitourinary system,September,Monday,0,291,31,12,40,"241,476",92,no,High School,1,yes,no,1,73,171,25,32
+20,No diagnosis,September,Monday,0,260,50,11,36,"241,476",92,yes,High School,4,yes,no,0,65,168,23,0
+29,No diagnosis,September,Monday,0,225,26,9,28,"241,476",92,yes,High School,1,no,no,2,69,169,24,0
+28,Medical consultation,September,Tuesday,0,225,26,9,28,"241,476",92,no,High School,1,no,no,2,69,169,24,2
+34,Medical consultation,September,Tuesday,0,118,10,10,37,"241,476",92,no,High School,0,no,no,0,83,172,28,2
+11,No diagnosis,September,Tuesday,0,289,36,13,33,"241,476",92,yes,High School,2,yes,no,1,90,172,30,0
+36,No diagnosis,September,Tuesday,0,118,13,18,50,"241,476",92,yes,High School,1,yes,no,0,98,178,31,0
+28,"Symptoms, signs and abnormal clinical and laboratory findings",September,Wednesday,0,225,26,9,28,"241,476",92,no,High School,1,no,no,2,69,169,24,3
+3,Medical consultation,September,Wednesday,0,179,51,18,38,"241,476",92,no,High School,0,yes,no,0,89,170,31,3
+13,No diagnosis,September,Wednesday,0,369,17,12,31,"241,476",92,yes,High School,3,yes,no,0,70,169,25,0
+33,Medical consultation,September,Friday,0,248,25,14,47,"241,476",92,no,High School,2,no,no,1,86,165,32,1
+3,Medical consultation,September,Friday,0,179,51,18,38,"241,476",92,no,High School,0,yes,no,0,89,170,31,3
+20,Medical consultation,September,Friday,0,260,50,11,36,"241,476",92,no,High School,4,yes,no,0,65,168,23,4
+3,Medical consultation,October,Tuesday,0,179,51,18,38,"253,465",93,no,High School,0,yes,no,0,89,170,31,3
+34,Medical consultation,October,Tuesday,0,118,10,10,37,"253,465",93,no,High School,0,no,no,0,83,172,28,3
+36,No diagnosis,October,Wednesday,0,118,13,18,50,"253,465",93,yes,High School,1,yes,no,0,98,178,31,0
+22,Medical consultation,October,Thursday,0,179,26,9,30,"253,465",93,no,Master,0,no,no,0,56,171,19,1
+3,Medical consultation,October,Friday,0,179,51,18,38,"253,465",93,no,High School,0,yes,no,0,89,170,31,3
+28,Medical consultation,October,Friday,0,225,26,9,28,"253,465",93,no,High School,1,no,no,2,69,169,24,3
+34,Medical consultation,October,Tuesday,0,118,10,10,37,"253,465",93,no,High School,0,no,no,0,83,172,28,3
+28,Medical consultation,October,Wednesday,0,225,26,9,28,"253,465",93,no,High School,1,no,no,2,69,169,24,2
+33,Medical consultation,October,Wednesday,0,248,25,14,47,"253,465",93,no,High School,2,no,no,1,86,165,32,2
+15,Medical consultation,October,Thursday,0,291,31,12,40,"253,465",93,no,High School,1,yes,no,1,73,171,25,5
+3,Medical consultation,October,Wednesday,0,179,51,18,38,"253,465",93,no,High School,0,yes,no,0,89,170,31,8
+28,Medical consultation,October,Wednesday,0,225,26,9,28,"253,465",93,no,High School,1,no,no,2,69,169,24,3
+20,"Injury, poisoning and other consequences of external causes",October,Thursday,0,260,50,11,36,"253,465",93,no,High School,4,yes,no,0,65,168,23,16
+15,Diseases of the genitourinary system,October,Tuesday,0,291,31,12,40,"253,465",93,no,High School,1,yes,no,1,73,171,25,8
+28,Dental consultation,October,Tuesday,0,225,26,9,28,"253,465",93,no,High School,1,no,no,2,69,169,24,2
+11,Unjustified absence,October,Wednesday,0,289,36,13,33,"253,465",93,no,High School,2,yes,no,1,90,172,30,8
+10,Medical consultation,October,Friday,0,361,52,3,28,"253,465",93,no,High School,1,yes,no,4,80,172,27,1
+20,Dental consultation,October,Friday,0,260,50,11,36,"253,465",93,no,High School,4,yes,no,0,65,168,23,3
+3,Medical consultation,November,Thursday,0,179,51,18,38,"306,345",93,no,High School,0,yes,no,0,89,170,31,1
+28,Medical consultation,November,Wednesday,0,225,26,9,28,"306,345",93,no,High School,1,no,no,2,69,169,24,1
+3,Diseases of the musculoskeletal system and connective tissue,November,Thursday,0,179,51,18,38,"306,345",93,no,High School,0,yes,no,0,89,170,31,8
+17,Factors influencing health status and contact with health services,November,Thursday,0,179,22,17,40,"306,345",93,no,Post Graduate,2,no,yes,0,63,170,22,8
+15,Medical consultation,November,Thursday,0,291,31,12,40,"306,345",93,no,High School,1,yes,no,1,73,171,25,5
+14,Diseases of the respiratory system,November,Monday,0,155,12,14,34,"306,345",93,no,High School,2,yes,no,0,95,196,25,32
+6,Patient follow-up,November,Monday,0,189,29,13,33,"306,345",93,no,High School,2,no,no,2,69,167,25,8
+15,Diseases of the genitourinary system,November,Monday,0,291,31,12,40,"306,345",93,no,High School,1,yes,no,1,73,171,25,40
+28,Medical consultation,November,Wednesday,0,225,26,9,28,"306,345",93,no,High School,1,no,no,2,69,169,24,1
+14,Diseases of the nervous system,November,Friday,0,155,12,14,34,"306,345",93,no,High School,2,yes,no,0,95,196,25,8
+28,Medical consultation,November,Wednesday,0,225,26,9,28,"306,345",93,no,High School,1,no,no,2,69,169,24,3
+17,Factors influencing health status and contact with health services,November,Wednesday,0,179,22,17,40,"306,345",93,no,Post Graduate,2,no,yes,0,63,170,22,8
+28,Diseases of the musculoskeletal system and connective tissue,November,Friday,0,225,26,9,28,"306,345",93,no,High School,1,no,no,2,69,169,24,3
+20,Dental consultation,November,Friday,0,260,50,11,36,"306,345",93,no,High School,4,yes,no,0,65,168,23,4
+33,Dental consultation,November,Monday,0,248,25,14,47,"306,345",93,no,High School,2,no,no,1,86,165,32,1
+28,Dental consultation,November,Tuesday,0,225,26,9,28,"306,345",93,no,High School,1,no,no,2,69,169,24,3
+11,Diseases of the eye and adnexa,November,Wednesday,0,289,36,13,33,"306,345",93,no,High School,2,yes,no,1,90,172,30,24
+15,Medical consultation,November,Thursday,0,291,31,12,40,"306,345",93,no,High School,1,yes,no,1,73,171,25,3
+33,Medical consultation,December,Tuesday,0,248,25,14,47,"261,306",97,no,High School,2,no,no,1,86,165,32,1
+34,"Injury, poisoning and other consequences of external causes",December,Tuesday,0,118,10,10,37,"261,306",97,no,High School,0,no,no,0,83,172,28,64
+36,Medical consultation,December,Wednesday,0,118,13,18,50,"261,306",97,no,High School,1,yes,no,0,98,178,31,2
+1,Unjustified absence,December,Wednesday,0,235,11,14,37,"261,306",97,no,Master,1,no,no,1,88,172,29,8
+28,Medical consultation,December,Thursday,0,225,26,9,28,"261,306",97,no,High School,1,no,no,2,69,169,24,2
+20,Unjustified absence,December,Friday,0,260,50,11,36,"261,306",97,no,High School,4,yes,no,0,65,168,23,8
+34,"Injury, poisoning and other consequences of external causes",December,Tuesday,0,118,10,10,37,"261,306",97,no,High School,0,no,no,0,83,172,28,56
+10,Patient follow-up,December,Wednesday,0,361,52,3,28,"261,306",97,no,High School,1,yes,no,4,80,172,27,8
+28,Dental consultation,December,Thursday,0,225,26,9,28,"261,306",97,no,High School,1,no,no,2,69,169,24,3
+20,Dental consultation,December,Friday,0,260,50,11,36,"261,306",97,no,High School,4,yes,no,0,65,168,23,3
+28,Medical consultation,December,Tuesday,0,225,26,9,28,"261,306",97,no,High School,1,no,no,2,69,169,24,2
+10,Patient follow-up,December,Wednesday,0,361,52,3,28,"261,306",97,no,High School,1,yes,no,4,80,172,27,8
+34,Physiotherapy,December,Friday,0,118,10,10,37,"261,306",97,no,High School,0,no,no,0,83,172,28,2
+24,"Injury, poisoning and other consequences of external causes",December,Friday,spring,246,25,16,41,"261,306",97,no,High School,0,yes,no,0,67,170,23,8
+28,Medical consultation,December,Friday,spring,225,26,9,28,"261,306",97,no,High School,1,no,no,2,69,169,24,2
+28,Medical consultation,January,Wednesday,spring,225,26,9,28,"308,593",95,no,High School,1,no,no,2,69,169,24,1
+34,"Injury, poisoning and other consequences of external causes",January,Monday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,1
+34,Physiotherapy,January,Tuesday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,1
+14,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,spring,155,12,14,34,"308,593",95,no,High School,2,yes,no,0,95,196,25,8
+28,Physiotherapy,January,Wednesday,spring,225,26,9,28,"308,593",95,no,High School,1,no,no,2,69,169,24,2
+27,Medical consultation,January,Thursday,spring,184,42,7,27,"308,593",95,no,High School,0,no,no,0,58,167,21,2
+28,Dental consultation,January,Thursday,spring,225,26,9,28,"308,593",95,no,High School,1,no,no,2,69,169,24,2
+28,Physiotherapy,January,Friday,spring,225,26,9,28,"308,593",95,no,High School,1,no,no,2,69,169,24,1
+34,Physiotherapy,January,Monday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+28,Physiotherapy,January,Tuesday,spring,225,26,9,28,"308,593",95,no,High School,1,no,no,2,69,169,24,2
+34,Physiotherapy,January,Tuesday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+34,Physiotherapy,January,Wednesday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+34,Physiotherapy,January,Thursday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+34,Physiotherapy,January,Friday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+34,Physiotherapy,January,Monday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+34,Physiotherapy,January,Tuesday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+22,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,spring,179,26,9,30,"308,593",95,no,Master,0,no,no,0,56,171,19,8
+11,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,spring,289,36,13,33,"308,593",95,no,High School,2,yes,no,1,90,172,30,8
+34,Physiotherapy,January,Wednesday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+27,Medical consultation,January,Thursday,spring,184,42,7,27,"308,593",95,no,High School,0,no,no,0,58,167,21,2
+34,Physiotherapy,January,Thursday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,2
+34,Physiotherapy,January,Monday,spring,118,10,10,37,"308,593",95,no,High School,0,no,no,0,83,172,28,0
+28,Medical consultation,January,Tuesday,spring,225,26,9,28,"308,593",95,no,High School,1,no,no,2,69,169,24,1
+11,Patient follow-up,January,Thursday,spring,289,36,13,33,"308,593",95,no,High School,2,yes,no,1,90,172,30,3
+27,Medical consultation,February,Friday,spring,184,42,7,27,"302,585",99,no,High School,0,no,no,0,58,167,21,1
+24,Certain infectious and parasitic diseases,February,Wednesday,spring,246,25,16,41,"302,585",99,no,High School,0,yes,no,0,67,170,23,8
+3,Diseases of the digestive system,February,Wednesday,spring,179,51,18,38,"302,585",99,no,High School,0,yes,no,0,89,170,31,8
+14,Dental consultation,February,Thursday,spring,155,12,14,34,"302,585",99,no,High School,2,yes,no,0,95,196,25,2
+6,Medical consultation,February,Thursday,spring,189,29,13,33,"302,585",99,no,High School,2,no,no,2,69,167,25,8
+20,Dental consultation,February,Friday,spring,260,50,11,36,"302,585",99,no,High School,4,yes,no,0,65,168,23,2
+11,Patient follow-up,February,Friday,spring,289,36,13,33,"302,585",99,no,High School,2,yes,no,1,90,172,30,8
+31,Diseases of the digestive system,February,Monday,spring,388,15,9,50,"302,585",99,no,High School,0,no,no,0,76,178,24,8
+31,Certain infectious and parasitic diseases,February,Tuesday,spring,388,15,9,50,"302,585",99,no,High School,0,no,no,0,76,178,24,8
+28,Dental consultation,February,Monday,spring,225,26,9,28,"302,585",99,no,High School,1,no,no,2,69,169,24,2
+28,Medical consultation,February,Tuesday,spring,225,26,9,28,"302,585",99,no,High School,1,no,no,2,69,169,24,2
+22,Medical consultation,February,Tuesday,spring,179,26,9,30,"302,585",99,no,Master,0,no,no,0,56,171,19,1
+27,Medical consultation,February,Tuesday,spring,184,42,7,27,"302,585",99,no,High School,0,no,no,0,58,167,21,8
+28,Laboratory examination,February,Thursday,spring,225,26,9,28,"302,585",99,no,High School,1,no,no,2,69,169,24,3
+18,"Symptoms, signs and abnormal clinical and laboratory findings",February,Monday,spring,330,16,4,28,"302,585",99,no,Post Graduate,0,no,no,0,84,182,25,8
+18,Medical consultation,February,Tuesday,spring,330,16,4,28,"302,585",99,no,Post Graduate,0,no,no,0,84,182,25,1
+28,Medical consultation,February,Wednesday,spring,225,26,9,28,"302,585",99,no,High School,1,no,no,2,69,169,24,1
+6,"Injury, poisoning and other consequences of external causes",February,Thursday,spring,189,29,13,33,"302,585",99,no,High School,2,no,no,2,69,167,25,8
+19,Dental consultation,March,Tuesday,spring,291,50,12,32,"343,253",95,no,High School,0,yes,no,0,65,169,23,2
+20,"Injury, poisoning and other consequences of external causes",March,Tuesday,spring,260,50,11,36,"343,253",95,no,High School,4,yes,no,0,65,168,23,8
+30,"Injury, poisoning and other consequences of external causes",March,Tuesday,spring,157,27,6,29,"343,253",95,no,High School,0,yes,yes,0,75,185,22,3
+17,"Congenital malformations, deformations and chromosomal abnormalities",March,Tuesday,spring,179,22,17,40,"343,253",95,no,Post Graduate,2,no,yes,0,63,170,22,8
+15,Patient follow-up,March,Wednesday,spring,291,31,12,40,"343,253",95,no,High School,1,yes,no,1,73,171,25,8
+20,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,spring,260,50,11,36,"343,253",95,no,High School,4,yes,no,0,65,168,23,8
+22,Diseases of the musculoskeletal system and connective tissue,March,Thursday,spring,179,26,9,30,"343,253",95,no,Master,0,no,no,0,56,171,19,8
+33,Diseases of the genitourinary system,March,Friday,spring,248,25,14,47,"343,253",95,no,High School,2,no,no,1,86,165,32,3
+20,Diseases of the musculoskeletal system and connective tissue,March,Friday,spring,260,50,11,36,"343,253",95,no,High School,4,yes,no,0,65,168,23,40
+17,Diseases of the digestive system,March,Monday,spring,179,22,17,40,"343,253",95,no,Post Graduate,2,no,yes,0,63,170,22,40
+14,Certain infectious and parasitic diseases,March,Monday,spring,155,12,14,34,"343,253",95,no,High School,2,yes,no,0,95,196,25,16
+20,Unjustified absence,March,Monday,spring,260,50,11,36,"343,253",95,no,High School,4,yes,no,0,65,168,23,16
+14,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,spring,155,12,14,34,"343,253",95,no,High School,2,yes,no,0,95,196,25,8
+11,Diseases of the nervous system,March,Thursday,spring,289,36,13,33,"343,253",95,no,High School,2,yes,no,1,90,172,30,8
+17,Diseases of the ear and mastoid process,March,Thursday,spring,179,22,17,40,"343,253",95,no,Post Graduate,2,no,yes,0,63,170,22,8
+20,Dental consultation,March,Friday,spring,260,50,11,36,"343,253",95,no,High School,4,yes,no,0,65,168,23,4
+28,Medical consultation,March,Friday,spring,225,26,9,28,"343,253",95,no,High School,1,no,no,2,69,169,24,1
+7,Diseases of the genitourinary system,March,Monday,spring,279,5,14,39,"343,253",95,no,High School,2,yes,yes,0,68,168,24,8
+3,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,spring,179,51,18,38,"343,253",95,no,High School,0,yes,no,0,89,170,31,24
+28,Medical consultation,March,Wednesday,spring,225,26,9,28,"343,253",95,no,High School,1,no,no,2,69,169,24,2
+28,Diseases of the digestive system,March,Monday,summer,225,26,9,28,"343,253",95,no,High School,1,no,no,2,69,169,24,8
+22,Diseases of the musculoskeletal system and connective tissue,March,Monday,summer,179,26,9,30,"343,253",95,no,Master,0,no,no,0,56,171,19,1
+28,Diseases of the digestive system,March,Tuesday,summer,225,26,9,28,"343,253",95,no,High School,1,no,no,2,69,169,24,8
+28,Diseases of the digestive system,March,Wednesday,summer,225,26,9,28,"343,253",95,no,High School,1,no,no,2,69,169,24,16
+3,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,summer,179,51,18,38,"343,253",95,no,High School,0,yes,no,0,89,170,31,3
+7,Diseases of the genitourinary system,March,Thursday,summer,279,5,14,39,"343,253",95,no,High School,2,yes,yes,0,68,168,24,16
+28,Dental consultation,March,Friday,summer,225,26,9,28,"343,253",95,no,High School,1,no,no,2,69,169,24,2
+33,Diseases of the genitourinary system,March,Friday,summer,248,25,14,47,"343,253",95,no,High School,2,no,no,1,86,165,32,3
+28,Dental consultation,March,Monday,summer,225,26,9,28,"343,253",95,no,High School,1,no,no,2,69,169,24,1
+15,Dental consultation,April,Wednesday,summer,291,31,12,40,"326,452",96,no,High School,1,yes,no,1,73,171,25,1
+28,Medical consultation,April,Wednesday,summer,225,26,9,28,"326,452",96,no,High School,1,no,no,2,69,169,24,1
+14,Dental consultation,April,Tuesday,summer,155,12,14,34,"326,452",96,no,High School,2,yes,no,0,95,196,25,1
+24,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,summer,246,25,16,41,"326,452",96,no,High School,0,yes,no,0,67,170,23,24
+14,Medical consultation,April,Thursday,summer,155,12,14,34,"326,452",96,no,High School,2,yes,no,0,95,196,25,1
+28,Dental consultation,April,Friday,summer,225,26,9,28,"326,452",96,no,High School,1,no,no,2,69,169,24,2
+20,Dental consultation,April,Friday,summer,260,50,11,36,"326,452",96,no,High School,4,yes,no,0,65,168,23,4
+3,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,summer,179,51,18,38,"326,452",96,no,High School,0,yes,no,0,89,170,31,24
+36,Medical consultation,April,Thursday,summer,118,13,18,50,"326,452",96,no,High School,1,yes,no,0,98,178,31,1
+15,Medical consultation,April,Friday,summer,291,31,12,40,"326,452",96,no,High School,1,yes,no,1,73,171,25,3
+24,Diseases of the genitourinary system,April,Friday,summer,246,25,16,41,"326,452",96,no,High School,0,yes,no,0,67,170,23,8
+15,Dental consultation,April,Friday,summer,291,31,12,40,"326,452",96,no,High School,1,yes,no,1,73,171,25,1
+33,Dental consultation,April,Friday,summer,248,25,14,47,"326,452",96,no,High School,2,no,no,1,86,165,32,8
+20,"Injury, poisoning and other consequences of external causes",April,Friday,summer,260,50,11,36,"326,452",96,no,High School,4,yes,no,0,65,168,23,56
+11,"Injury, poisoning and other consequences of external causes",April,Tuesday,summer,289,36,13,33,"326,452",96,no,High School,2,yes,no,1,90,172,30,8
+14,Diseases of the skin and subcutaneous tissue,April,Wednesday,summer,155,12,14,34,"326,452",96,no,High School,2,yes,no,0,95,196,25,24
+23,"Injury, poisoning and other consequences of external causes",April,Wednesday,summer,378,49,11,36,"326,452",96,no,High School,2,no,yes,4,65,174,21,8
+11,Diseases of the musculoskeletal system and connective tissue,April,Thursday,summer,289,36,13,33,"326,452",96,no,High School,2,yes,no,1,90,172,30,16
+1,Diseases of the eye and adnexa,April,Friday,summer,235,11,14,37,"326,452",96,no,Master,1,no,no,1,88,172,29,3
+2,No diagnosis,April,Monday,summer,235,29,12,48,"326,452",96,yes,High School,1,no,yes,5,88,163,33,0
+11,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,summer,289,36,13,33,"378,884",92,no,High School,2,yes,no,1,90,172,30,8
+14,Dental consultation,May,Thursday,summer,155,12,14,34,"378,884",92,no,High School,2,yes,no,0,95,196,25,2
+14,Dental consultation,May,Monday,summer,155,12,14,34,"378,884",92,no,High School,2,yes,no,0,95,196,25,1
+3,"Symptoms, signs and abnormal clinical and laboratory findings",May,Tuesday,summer,179,51,18,38,"378,884",92,no,High School,0,yes,no,0,89,170,31,8
+28,"Injury, poisoning and other consequences of external causes",May,Tuesday,summer,225,26,9,28,"378,884",92,no,High School,1,no,no,2,69,169,24,8
+27,Diseases of the eye and adnexa,May,Wednesday,summer,184,42,7,27,"378,884",92,no,High School,0,no,no,0,58,167,21,4
+14,Dental consultation,May,Monday,summer,155,12,14,34,"378,884",92,no,High School,2,yes,no,0,95,196,25,2
+3,Diseases of the skin and subcutaneous tissue,May,Tuesday,summer,179,51,18,38,"378,884",92,no,High School,0,yes,no,0,89,170,31,1
+11,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,summer,289,36,13,33,"378,884",92,no,High School,2,yes,no,1,90,172,30,24
+7,No diagnosis,May,Wednesday,summer,279,5,14,39,"378,884",92,yes,High School,2,yes,yes,0,68,168,24,0
+18,No diagnosis,May,Wednesday,summer,330,16,4,28,"378,884",92,yes,Post Graduate,0,no,no,0,84,182,25,0
+23,No diagnosis,May,Wednesday,summer,378,49,11,36,"378,884",92,yes,High School,2,no,yes,4,65,174,21,0
+31,No diagnosis,May,Wednesday,summer,388,15,9,50,"378,884",92,yes,High School,0,no,no,0,76,178,24,0
+3,Diseases of the digestive system,May,Tuesday,summer,179,51,18,38,"378,884",92,no,High School,0,yes,no,0,89,170,31,1
+36,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,summer,118,13,18,50,"378,884",92,no,High School,1,yes,no,0,98,178,31,24
+10,Patient follow-up,May,Friday,summer,361,52,3,28,"378,884",92,no,High School,1,yes,no,4,80,172,27,8
+24,"Injury, poisoning and other consequences of external causes",June,Monday,summer,246,25,16,41,"377,550",94,no,High School,0,yes,no,0,67,170,23,8
+10,Patient follow-up,June,Monday,summer,361,52,3,28,"377,550",94,no,High School,1,yes,no,4,80,172,27,8
+24,Diseases of the respiratory system,June,Tuesday,summer,246,25,16,41,"377,550",94,no,High School,0,yes,no,0,67,170,23,24
+15,Medical consultation,June,Thursday,summer,291,31,12,40,"377,550",94,no,High School,1,yes,no,1,73,171,25,4
+24,Diseases of the respiratory system,June,Friday,summer,246,25,16,41,"377,550",94,no,High School,0,yes,no,0,67,170,23,8
+3,Diseases of the digestive system,June,Monday,summer,179,51,18,38,"377,550",94,no,High School,0,yes,no,0,89,170,31,8
+14,Medical consultation,June,Monday,summer,155,12,14,34,"377,550",94,no,High School,2,yes,no,0,95,196,25,4
+24,Diseases of the respiratory system,June,Monday,summer,246,25,16,41,"377,550",94,no,High School,0,yes,no,0,67,170,23,8
+36,Diseases of the musculoskeletal system and connective tissue,June,Wednesday,summer,118,13,18,50,"377,550",94,no,High School,1,yes,no,0,98,178,31,8
+1,Diseases of the musculoskeletal system and connective tissue,June,Friday,summer,235,11,14,37,"377,550",94,no,Master,1,no,no,1,88,172,29,16
+36,Medical consultation,June,Tuesday,summer,118,13,18,50,"377,550",94,no,High School,1,yes,no,0,98,178,31,1
+36,Diseases of the musculoskeletal system and connective tissue,June,Wednesday,summer,118,13,18,50,"377,550",94,no,High School,1,yes,no,0,98,178,31,80
+23,Patient follow-up,June,Thursday,summer,378,49,11,36,"377,550",94,no,High School,2,no,yes,4,65,174,21,8
+3,Diseases of the digestive system,June,Friday,summer,179,51,18,38,"377,550",94,no,High School,0,yes,no,0,89,170,31,2
+32,Dental consultation,June,Monday,winter,289,48,29,49,"377,550",94,no,High School,0,no,no,2,108,172,36,2
+28,Dental consultation,June,Thursday,winter,225,26,9,28,"377,550",94,no,High School,1,no,no,2,69,169,24,2
+14,"Injury, poisoning and other consequences of external causes",July,Tuesday,winter,155,12,14,34,"275,312",98,no,High School,2,yes,no,0,95,196,25,16
+36,Certain infectious and parasitic diseases,July,Wednesday,winter,118,13,18,50,"275,312",98,no,High School,1,yes,no,0,98,178,31,8
+34,Mental and behavioural disorders,July,Friday,winter,118,10,10,37,"275,312",98,no,High School,0,no,no,0,83,172,28,8
+34,Unjustified absence,July,Friday,winter,118,10,10,37,"275,312",98,no,High School,0,no,no,0,83,172,28,4
+18,Unjustified absence,July,Tuesday,winter,330,16,4,28,"275,312",98,no,Post Graduate,0,no,no,0,84,182,25,8
+22,"Symptoms, signs and abnormal clinical and laboratory findings",July,Thursday,winter,179,26,9,30,"275,312",98,no,Master,0,no,no,0,56,171,19,8
+14,Laboratory examination,July,Friday,winter,155,12,14,34,"275,312",98,no,High School,2,yes,no,0,95,196,25,2
+18,Certain infectious and parasitic diseases,July,Monday,winter,330,16,4,28,"275,312",98,no,Post Graduate,0,no,no,0,84,182,25,8
+18,Certain infectious and parasitic diseases,July,Tuesday,winter,330,16,4,28,"275,312",98,no,Post Graduate,0,no,no,0,84,182,25,8
+30,Laboratory examination,July,Monday,winter,157,27,6,29,"275,312",98,no,High School,0,yes,yes,0,75,185,22,3
+10,Patient follow-up,July,Tuesday,winter,361,52,3,28,"275,312",98,no,High School,1,yes,no,4,80,172,27,8
+11,Unjustified absence,July,Wednesday,winter,289,36,13,33,"275,312",98,no,High School,2,yes,no,1,90,172,30,8
+3,Unjustified absence,July,Thursday,winter,179,51,18,38,"275,312",98,no,High School,0,yes,no,0,89,170,31,8
+11,"Injury, poisoning and other consequences of external causes",July,Monday,winter,289,36,13,33,"275,312",98,no,High School,2,yes,no,1,90,172,30,32
+11,"Injury, poisoning and other consequences of external causes",July,Thursday,winter,289,36,13,33,"275,312",98,no,High School,2,yes,no,1,90,172,30,8
+20,No diagnosis,July,Thursday,winter,260,50,11,36,"275,312",98,yes,High School,4,yes,no,0,65,168,23,0
+11,"Injury, poisoning and other consequences of external causes",August,Friday,winter,289,36,13,33,"265,615",94,no,High School,2,yes,no,1,90,172,30,8
+30,"Injury, poisoning and other consequences of external causes",August,Friday,winter,157,27,6,29,"265,615",94,no,High School,0,yes,yes,0,75,185,22,3
+11,Medical consultation,August,Monday,winter,289,36,13,33,"265,615",94,no,High School,2,yes,no,1,90,172,30,1
+9,"Symptoms, signs and abnormal clinical and laboratory findings",August,Tuesday,winter,228,14,16,58,"265,615",94,no,High School,2,no,no,1,65,172,22,8
+26,Diseases of the musculoskeletal system and connective tissue,August,Thursday,winter,300,26,13,43,"265,615",94,no,High School,2,yes,yes,1,77,175,25,1
+26,Diseases of the genitourinary system,August,Thursday,winter,300,26,13,43,"265,615",94,no,High School,2,yes,yes,1,77,175,25,2
+20,Dental consultation,August,Friday,winter,260,50,11,36,"265,615",94,no,High School,4,yes,no,0,65,168,23,4
+11,Medical consultation,August,Tuesday,winter,289,36,13,33,"265,615",94,no,High School,2,yes,no,1,90,172,30,4
+33,Medical consultation,August,Wednesday,winter,248,25,14,47,"265,615",94,no,High School,2,no,no,1,86,165,32,1
+21,Diseases of the digestive system,August,Thursday,winter,268,11,8,33,"265,615",94,no,Post Graduate,0,no,no,0,79,178,25,8
+22,Medical consultation,August,Thursday,winter,179,26,9,30,"265,615",94,no,Master,0,no,no,0,56,171,19,1
+36,Diseases of the musculoskeletal system and connective tissue,August,Thursday,winter,118,13,18,50,"265,615",94,no,High School,1,yes,no,0,98,178,31,3
+33,Laboratory examination,August,Monday,winter,248,25,14,47,"265,615",94,no,High School,2,no,no,1,86,165,32,2
+1,Medical consultation,August,Tuesday,winter,235,11,14,37,"265,615",94,no,Master,1,no,no,1,88,172,29,1
+36,Medical consultation,August,Thursday,winter,118,13,18,50,"265,615",94,no,High School,1,yes,no,0,98,178,31,1
+1,"Injury, poisoning and other consequences of external causes",August,Thursday,winter,235,11,14,37,"265,615",94,no,Master,1,no,no,1,88,172,29,8
+10,Diseases of the ear and mastoid process,August,Tuesday,winter,361,52,3,28,"265,615",94,no,High School,1,yes,no,4,80,172,27,8
+27,Diseases of the nervous system,August,Wednesday,winter,184,42,7,27,"265,615",94,no,High School,0,no,no,0,58,167,21,8
+3,Diseases of the digestive system,September,Monday,winter,179,51,18,38,"294,217",81,no,High School,0,yes,no,0,89,170,31,8
+3,Medical consultation,September,Friday,winter,179,51,18,38,"294,217",81,no,High School,0,yes,no,0,89,170,31,3
+11,"Injury, poisoning and other consequences of external causes",September,Wednesday,winter,289,36,13,33,"294,217",81,no,High School,2,yes,no,1,90,172,30,24
+5,No diagnosis,September,Thursday,winter,235,20,13,43,"294,217",81,yes,High School,1,yes,no,0,106,167,38,0
+24,Diseases of the circulatory system,September,Monday,winter,246,25,16,41,"294,217",81,no,High School,0,yes,no,0,67,170,23,16
+15,Dental consultation,September,Tuesday,winter,291,31,12,40,"294,217",81,no,High School,1,yes,no,1,73,171,25,3
+8,No diagnosis,September,Tuesday,winter,231,35,14,39,"294,217",81,yes,High School,2,yes,no,2,100,170,35,0
+19,No diagnosis,September,Tuesday,winter,291,50,12,32,"294,217",81,yes,High School,0,yes,no,0,65,169,23,0
+3,Diseases of the musculoskeletal system and connective tissue,September,Wednesday,winter,179,51,18,38,"294,217",81,no,High School,0,yes,no,0,89,170,31,8
+24,Diseases of the circulatory system,September,Wednesday,winter,246,25,16,41,"294,217",81,no,High School,0,yes,no,0,67,170,23,32
+3,Medical consultation,September,Thursday,winter,179,51,18,38,"294,217",81,no,High School,0,yes,no,0,89,170,31,1
+15,Dental consultation,September,Friday,winter,291,31,12,40,"294,217",81,no,High School,1,yes,no,1,73,171,25,4
+20,Dental consultation,September,Friday,winter,260,50,11,36,"294,217",81,no,High School,4,yes,no,0,65,168,23,4
+5,Unjustified absence,September,Wednesday,0,235,20,13,43,"294,217",81,no,High School,1,yes,no,0,106,167,38,8
+36,Dental consultation,September,Thursday,0,118,13,18,50,"294,217",81,no,High School,1,yes,no,0,98,178,31,1
+5,No diagnosis,September,Thursday,0,235,20,13,43,"294,217",81,yes,High School,1,yes,no,0,106,167,38,0
+15,Dental consultation,September,Friday,0,291,31,12,40,"294,217",81,no,High School,1,yes,no,1,73,171,25,3
+15,Diseases of the eye and adnexa,September,Monday,0,291,31,12,40,"294,217",81,no,High School,1,yes,no,1,73,171,25,40
+3,Diseases of the musculoskeletal system and connective tissue,September,Monday,0,179,51,18,38,"294,217",81,no,High School,0,yes,no,0,89,170,31,8
+11,Blood donation,October,Monday,0,289,36,13,33,"265,017",88,no,High School,2,yes,no,1,90,172,30,8
+1,Unjustified absence,October,Monday,0,235,11,14,37,"265,017",88,no,Master,1,no,no,1,88,172,29,4
+11,Unjustified absence,October,Monday,0,289,36,13,33,"265,017",88,no,High School,2,yes,no,1,90,172,30,8
+11,Patient follow-up,October,Friday,0,289,36,13,33,"265,017",88,no,High School,2,yes,no,1,90,172,30,8
+36,No diagnosis,October,Friday,0,118,13,18,50,"265,017",88,yes,High School,1,yes,no,0,98,178,31,0
+33,No diagnosis,October,Friday,0,248,25,14,47,"265,017",88,yes,High School,2,no,no,1,86,165,32,0
+22,Certain infectious and parasitic diseases,October,Monday,0,179,26,9,30,"265,017",88,no,Master,0,no,no,0,56,171,19,8
+34,Diseases of the eye and adnexa,October,Monday,0,118,10,10,37,"265,017",88,no,High School,0,no,no,0,83,172,28,3
+13,Patient follow-up,October,Monday,0,369,17,12,31,"265,017",88,no,High School,3,yes,no,0,70,169,25,8
+3,Dental consultation,October,Wednesday,0,179,51,18,38,"265,017",88,no,High School,0,yes,no,0,89,170,31,1
+22,Certain infectious and parasitic diseases,October,Wednesday,0,179,26,9,30,"265,017",88,no,Master,0,no,no,0,56,171,19,64
+5,No diagnosis,October,Wednesday,0,235,20,13,43,"265,017",88,yes,High School,1,yes,no,0,106,167,38,0
+11,"Injury, poisoning and other consequences of external causes",October,Thursday,0,289,36,13,33,"265,017",88,no,High School,2,yes,no,1,90,172,30,16
+20,Dental consultation,October,Friday,0,260,50,11,36,"265,017",88,no,High School,4,yes,no,0,65,168,23,3
+5,No diagnosis,October,Friday,0,235,20,13,43,"265,017",88,yes,High School,1,yes,no,0,106,167,38,0
+5,Medical consultation,October,Monday,0,235,20,13,43,"265,017",88,no,High School,1,yes,no,0,106,167,38,2
+5,Medical consultation,October,Monday,0,235,20,13,43,"265,017",88,no,High School,1,yes,no,0,106,167,38,2
+36,Dental consultation,October,Tuesday,0,118,13,18,50,"265,017",88,no,High School,1,yes,no,0,98,178,31,1
+15,Dental consultation,October,Tuesday,0,291,31,12,40,"265,017",88,no,High School,1,yes,no,1,73,171,25,4
+22,Medical consultation,October,Thursday,0,179,26,9,30,"265,017",88,no,Master,0,no,no,0,56,171,19,16
+36,Dental consultation,October,Thursday,0,118,13,18,50,"265,017",88,no,High School,1,yes,no,0,98,178,31,1
+10,Diseases of the respiratory system,October,Monday,0,361,52,3,28,"265,017",88,no,High School,1,yes,no,4,80,172,27,8
+20,No diagnosis,October,Tuesday,0,260,50,11,36,"265,017",88,yes,High School,4,yes,no,0,65,168,23,0
+15,No diagnosis,October,Tuesday,0,291,31,12,40,"265,017",88,yes,High School,1,yes,no,1,73,171,25,0
+30,No diagnosis,October,Tuesday,0,157,27,6,29,"265,017",88,yes,High School,0,yes,yes,0,75,185,22,0
+22,Certain infectious and parasitic diseases,October,Wednesday,0,179,26,9,30,"265,017",88,no,Master,0,no,no,0,56,171,19,5
+22,Diseases of the eye and adnexa,October,Wednesday,0,179,26,9,30,"265,017",88,no,Master,0,no,no,0,56,171,19,5
+36,Medical consultation,October,Thursday,0,118,13,18,50,"265,017",88,no,High School,1,yes,no,0,98,178,31,1
+34,Diseases of the digestive system,November,Monday,0,118,10,10,37,"284,031",97,no,High School,0,no,no,0,83,172,28,8
+33,Medical consultation,November,Monday,0,248,25,14,47,"284,031",97,no,High School,2,no,no,1,86,165,32,2
+3,Diseases of the nervous system,November,Tuesday,0,179,51,18,38,"284,031",97,no,High School,0,yes,no,0,89,170,31,8
+20,Dental consultation,November,Friday,0,260,50,11,36,"284,031",97,no,High School,4,yes,no,0,65,168,23,3
+15,Medical consultation,November,Monday,0,291,31,12,40,"284,031",97,no,High School,1,yes,no,1,73,171,25,1
+23,Certain infectious and parasitic diseases,November,Monday,0,378,49,11,36,"284,031",97,no,High School,2,no,yes,4,65,174,21,8
+14,Diseases of the digestive system,November,Monday,0,155,12,14,34,"284,031",97,no,High School,2,yes,no,0,95,196,25,120
+5,Unjustified absence,November,Monday,0,235,20,13,43,"284,031",97,no,High School,1,yes,no,0,106,167,38,8
+18,No diagnosis,November,Tuesday,0,330,16,4,28,"284,031",97,yes,Post Graduate,0,no,no,0,84,182,25,0
+1,"Symptoms, signs and abnormal clinical and laboratory findings",November,Wednesday,0,235,11,14,37,"284,031",97,no,Master,1,no,no,1,88,172,29,1
+34,Diseases of the digestive system,November,Wednesday,0,118,10,10,37,"284,031",97,no,High School,0,no,no,0,83,172,28,3
+1,Laboratory examination,November,Thursday,0,235,11,14,37,"284,031",97,no,Master,1,no,no,1,88,172,29,2
+3,Dental consultation,November,Thursday,0,179,51,18,38,"284,031",97,no,High School,0,yes,no,0,89,170,31,3
+24,Diseases of the musculoskeletal system and connective tissue,November,Friday,0,246,25,16,41,"284,031",97,no,High School,0,yes,no,0,67,170,23,8
+15,Diseases of the skin and subcutaneous tissue,November,Friday,0,291,31,12,40,"284,031",97,no,High School,1,yes,no,1,73,171,25,4
+24,Diseases of the musculoskeletal system and connective tissue,November,Monday,0,246,25,16,41,"284,031",97,no,High School,0,yes,no,0,67,170,23,8
+3,Dental consultation,November,Tuesday,0,179,51,18,38,"284,031",97,no,High School,0,yes,no,0,89,170,31,1
+20,Diseases of the respiratory system,November,Wednesday,0,260,50,11,36,"284,031",97,no,High School,4,yes,no,0,65,168,23,8
+20,"Pregnancy, childbirth and the puerperium",November,Friday,0,260,50,11,36,"284,031",97,no,High School,4,yes,no,0,65,168,23,8
+23,No diagnosis,November,Friday,0,378,49,11,36,"284,031",97,yes,High School,2,no,yes,4,65,174,21,0
+7,No diagnosis,November,Tuesday,0,279,5,14,39,"284,031",97,yes,High School,2,yes,yes,0,68,168,24,0
+3,Medical consultation,November,Thursday,0,179,51,18,38,"284,031",97,no,High School,0,yes,no,0,89,170,31,1
+28,Diseases of the skin and subcutaneous tissue,December,Monday,0,225,26,9,28,"236,629",93,no,High School,1,no,no,2,69,169,24,3
+3,Dental consultation,December,Monday,0,179,51,18,38,"236,629",93,no,High School,0,yes,no,0,89,170,31,2
+3,Dental consultation,December,Monday,0,179,51,18,38,"236,629",93,no,High School,0,yes,no,0,89,170,31,1
+1,Medical consultation,December,Monday,0,235,11,14,37,"236,629",93,no,Master,1,no,no,1,88,172,29,3
+36,Dental consultation,December,Tuesday,0,118,13,18,50,"236,629",93,no,High School,1,yes,no,0,98,178,31,1
+20,Dental consultation,December,Friday,0,260,50,11,36,"236,629",93,no,High School,4,yes,no,0,65,168,23,4
+24,"Endocrine, nutritional and metabolic diseases",December,Thursday,0,246,25,16,41,"236,629",93,no,High School,0,yes,no,0,67,170,23,8
+3,Dental consultation,December,Thursday,0,179,51,18,38,"236,629",93,no,High School,0,yes,no,0,89,170,31,1
+3,Dental consultation,December,Friday,0,179,51,18,38,"236,629",93,no,High School,0,yes,no,0,89,170,31,1
+22,Medical consultation,December,Tuesday,0,179,26,9,30,"236,629",93,no,Master,0,no,no,0,56,171,19,1
+34,Laboratory examination,December,Tuesday,0,118,10,10,37,"236,629",93,no,High School,0,no,no,0,83,172,28,8
+1,Laboratory examination,December,Thursday,0,235,11,14,37,"236,629",93,no,Master,1,no,no,1,88,172,29,2
+3,Dental consultation,December,Friday,0,179,51,18,38,"236,629",93,no,High School,0,yes,no,0,89,170,31,1
+5,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,spring,235,20,13,43,"236,629",93,no,High School,1,yes,no,0,106,167,38,8
+1,Diseases of the genitourinary system,December,Tuesday,spring,235,11,14,37,"236,629",93,no,Master,1,no,no,1,88,172,29,4
+20,Unjustified absence,December,Wednesday,spring,260,50,11,36,"236,629",93,no,High School,4,yes,no,0,65,168,23,8
+30,Dental consultation,December,Monday,spring,157,27,6,29,"236,629",93,no,High School,0,yes,yes,0,75,185,22,2
+3,Dental consultation,December,Monday,spring,179,51,18,38,"236,629",93,no,High School,0,yes,no,0,89,170,31,3
+11,"Injury, poisoning and other consequences of external causes",December,Monday,spring,289,36,13,33,"236,629",93,no,High School,2,yes,no,1,90,172,30,8
+28,Medical consultation,January,Wednesday,spring,225,26,9,28,"330,061",100,no,High School,1,no,no,2,69,169,24,5
+34,"Injury, poisoning and other consequences of external causes",January,Monday,spring,118,10,10,37,"330,061",100,no,High School,0,no,no,0,83,172,28,32
+14,Medical consultation,January,Monday,spring,155,12,14,34,"330,061",100,no,High School,2,yes,no,0,95,196,25,2
+1,Diseases of the musculoskeletal system and connective tissue,January,Tuesday,spring,235,11,14,37,"330,061",100,no,Master,1,no,no,1,88,172,29,1
+14,Medical consultation,January,Tuesday,spring,155,12,14,34,"330,061",100,no,High School,2,yes,no,0,95,196,25,4
+11,Unjustified absence,January,Monday,spring,289,36,13,33,"330,061",100,no,High School,2,yes,no,1,90,172,30,8
+15,Diseases of the blood and blood-forming organs,January,Wednesday,spring,291,31,12,40,"330,061",100,no,High School,1,yes,no,1,73,171,25,8
+5,Unjustified absence,January,Monday,spring,235,20,13,43,"330,061",100,no,High School,1,yes,no,0,106,167,38,8
+36,Unjustified absence,January,Monday,spring,118,13,18,50,"330,061",100,no,High School,1,yes,no,0,98,178,31,4
+3,Dental consultation,January,Wednesday,spring,179,51,18,38,"330,061",100,no,High School,0,yes,no,0,89,170,31,1
+3,Dental consultation,January,Friday,spring,179,51,18,38,"330,061",100,no,High School,0,yes,no,0,89,170,31,1
+34,Dental consultation,February,Tuesday,spring,118,10,10,37,"251,818",96,no,High School,0,no,no,0,83,172,28,2
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+28,Diseases of the eye and adnexa,February,Wednesday,spring,225,26,9,28,"251,818",96,no,High School,1,no,no,2,69,169,24,1
+11,Patient follow-up,February,Friday,spring,289,36,13,33,"251,818",96,no,High School,2,yes,no,1,90,172,30,3
+20,Dental consultation,February,Friday,spring,260,50,11,36,"251,818",96,no,High School,4,yes,no,0,65,168,23,3
+3,Medical consultation,February,Friday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+3,Physiotherapy,February,Monday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,2
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+3,Diseases of the respiratory system,February,Thursday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,8
+24,Unjustified absence,February,Thursday,spring,246,25,16,41,"251,818",96,no,High School,0,yes,no,0,67,170,23,8
+3,Physiotherapy,February,Friday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+6,Patient follow-up,February,Monday,spring,189,29,13,33,"251,818",96,no,High School,2,no,no,2,69,167,25,8
+3,Physiotherapy,February,Monday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+24,Medical consultation,February,Tuesday,spring,246,25,16,41,"251,818",96,no,High School,0,yes,no,0,67,170,23,2
+15,Medical consultation,February,Tuesday,spring,291,31,12,40,"251,818",96,no,High School,1,yes,no,1,73,171,25,2
+30,Diseases of the digestive system,February,Wednesday,spring,157,27,6,29,"251,818",96,no,High School,0,yes,yes,0,75,185,22,16
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+3,Physiotherapy,February,Friday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+24,Diseases of the respiratory system,February,Friday,spring,246,25,16,41,"251,818",96,no,High School,0,yes,no,0,67,170,23,24
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+3,Physiotherapy,February,Friday,spring,179,51,18,38,"251,818",96,no,High School,0,yes,no,0,89,170,31,3
+34,"Symptoms, signs and abnormal clinical and laboratory findings",March,Tuesday,spring,118,10,10,37,"244,387",98,no,High School,0,no,no,0,83,172,28,8
+24,"Injury, poisoning and other consequences of external causes",March,Wednesday,spring,246,25,16,41,"244,387",98,no,High School,0,yes,no,0,67,170,23,16
+24,Dental consultation,March,Friday,spring,246,25,16,41,"244,387",98,no,High School,0,yes,no,0,67,170,23,2
+20,Dental consultation,March,Friday,spring,260,50,11,36,"244,387",98,no,High School,4,yes,no,0,65,168,23,4
+3,Dental consultation,March,Monday,spring,179,51,18,38,"244,387",98,no,High School,0,yes,no,0,89,170,31,2
+1,Patient follow-up,March,Monday,spring,235,11,14,37,"244,387",98,no,Master,1,no,no,1,88,172,29,8
+17,Patient follow-up,March,Tuesday,spring,179,22,17,40,"244,387",98,no,Post Graduate,2,no,yes,0,63,170,22,8
+23,Patient follow-up,March,Tuesday,spring,378,49,11,36,"244,387",98,no,High School,2,no,yes,4,65,174,21,8
+3,Dental consultation,March,Monday,spring,179,51,18,38,"244,387",98,no,High School,0,yes,no,0,89,170,31,16
+10,Patient follow-up,March,Wednesday,spring,361,52,3,28,"244,387",98,no,High School,1,yes,no,4,80,172,27,8
+13,No diagnosis,March,Wednesday,spring,369,17,12,31,"244,387",98,yes,High School,3,yes,no,0,70,169,25,0
+1,Factors influencing health status and contact with health services,March,Thursday,spring,235,11,14,37,"244,387",98,no,Master,1,no,no,1,88,172,29,8
+36,Medical consultation,March,Friday,summer,118,13,18,50,"244,387",98,no,High School,1,yes,no,0,98,178,31,2
+36,Diseases of the genitourinary system,March,Tuesday,summer,118,13,18,50,"244,387",98,no,High School,1,yes,no,0,98,178,31,3
+36,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,summer,118,13,18,50,"244,387",98,no,High School,1,yes,no,0,98,178,31,8
+1,No diagnosis,March,Thursday,summer,235,11,14,37,"244,387",98,yes,Master,1,no,no,1,88,172,29,0
+24,No diagnosis,March,Thursday,summer,246,25,16,41,"244,387",98,yes,High School,0,yes,no,0,67,170,23,0
+36,No diagnosis,March,Thursday,summer,118,13,18,50,"244,387",98,yes,High School,1,yes,no,0,98,178,31,0
+3,Dental consultation,March,Friday,summer,179,51,18,38,"244,387",98,no,High School,0,yes,no,0,89,170,31,8
+11,Patient follow-up,March,Friday,summer,289,36,13,33,"244,387",98,no,High School,2,yes,no,1,90,172,30,8
+20,"Injury, poisoning and other consequences of external causes",March,Monday,summer,260,50,11,36,"244,387",98,no,High School,4,yes,no,0,65,168,23,8
+24,Dental consultation,March,Tuesday,summer,246,25,16,41,"244,387",98,no,High School,0,yes,no,0,67,170,23,2
+3,Dental consultation,April,Wednesday,summer,179,51,18,38,"239,409",98,no,High School,0,yes,no,0,89,170,31,4
+20,Dental consultation,April,Friday,summer,260,50,11,36,"239,409",98,no,High School,4,yes,no,0,65,168,23,3
+18,Unjustified absence,April,Friday,summer,330,16,4,28,"239,409",98,no,Post Graduate,0,no,no,0,84,182,25,4
+13,Patient follow-up,April,Monday,summer,369,17,12,31,"239,409",98,no,High School,3,yes,no,0,70,169,25,4
+33,Unjustified absence,April,Monday,summer,248,25,14,47,"239,409",98,no,High School,2,no,no,1,86,165,32,4
+18,Medical consultation,April,Wednesday,summer,330,16,4,28,"239,409",98,no,Post Graduate,0,no,no,0,84,182,25,8
+3,Dental consultation,April,Wednesday,summer,179,51,18,38,"239,409",98,no,High School,0,yes,no,0,89,170,31,8
+36,Medical consultation,April,Monday,summer,118,13,18,50,"239,409",98,no,High School,1,yes,no,0,98,178,31,1
+36,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,summer,118,13,18,50,"239,409",98,no,High School,1,yes,no,0,98,178,31,120
+26,Dental consultation,April,Friday,summer,300,26,13,43,"239,409",98,no,High School,2,yes,yes,1,77,175,25,8
+20,Dental consultation,April,Friday,summer,260,50,11,36,"239,409",98,no,High School,4,yes,no,0,65,168,23,4
+3,Dental consultation,April,Monday,summer,179,51,18,38,"239,409",98,no,High School,0,yes,no,0,89,170,31,4
+34,Diseases of the digestive system,April,Wednesday,summer,118,10,10,37,"239,409",98,no,High School,0,no,no,0,83,172,28,2
+5,Diseases of the musculoskeletal system and connective tissue,May,Monday,summer,235,20,13,43,"246,074",99,no,High School,1,yes,no,0,106,167,38,16
+33,Medical consultation,May,Wednesday,summer,248,25,14,47,"246,074",99,no,High School,2,no,no,1,86,165,32,2
+13,Diseases of the respiratory system,May,Monday,summer,369,17,12,31,"246,074",99,no,High School,3,yes,no,0,70,169,25,8
+22,Medical consultation,May,Wednesday,summer,179,26,9,30,"246,074",99,no,Master,0,no,no,0,56,171,19,3
+3,Dental consultation,May,Wednesday,summer,179,51,18,38,"246,074",99,no,High School,0,yes,no,0,89,170,31,4
+10,Medical consultation,May,Thursday,summer,361,52,3,28,"246,074",99,no,High School,1,yes,no,4,80,172,27,1
+20,Dental consultation,May,Friday,summer,260,50,11,36,"246,074",99,no,High School,4,yes,no,0,65,168,23,3
+17,Diseases of the digestive system,May,Monday,summer,179,22,17,40,"246,074",99,no,Post Graduate,2,no,yes,0,63,170,22,2
+17,Diseases of the ear and mastoid process,May,Monday,summer,179,22,17,40,"246,074",99,no,Post Graduate,2,no,yes,0,63,170,22,3
+9,"Symptoms, signs and abnormal clinical and laboratory findings",May,Wednesday,summer,228,14,16,58,"246,074",99,no,High School,2,no,no,1,65,172,22,8
+28,Laboratory examination,May,Wednesday,summer,225,26,9,28,"246,074",99,no,High School,1,no,no,2,69,169,24,3
+18,Diseases of the musculoskeletal system and connective tissue,May,Friday,summer,330,16,4,28,"246,074",99,no,Post Graduate,0,no,no,0,84,182,25,8
+22,Laboratory examination,May,Monday,summer,179,26,9,30,"246,074",99,no,Master,0,no,no,0,56,171,19,2
+34,Dental consultation,May,Monday,summer,118,10,10,37,"246,074",99,no,High School,0,no,no,0,83,172,28,1
+1,Certain infectious and parasitic diseases,May,Monday,summer,235,11,14,37,"246,074",99,no,Master,1,no,no,1,88,172,29,8
+22,Medical consultation,May,Wednesday,summer,179,26,9,30,"246,074",99,no,Master,0,no,no,0,56,171,19,3
+34,Medical consultation,June,Monday,summer,118,10,10,37,"253,957",95,no,High School,0,no,no,0,83,172,28,3
+3,Dental consultation,June,Monday,summer,179,51,18,38,"253,957",95,no,High School,0,yes,no,0,89,170,31,3
+34,Dental consultation,June,Tuesday,summer,118,10,10,37,"253,957",95,no,High School,0,no,no,0,83,172,28,2
+28,Medical consultation,June,Thursday,summer,225,26,9,28,"253,957",95,no,High School,1,no,no,2,69,169,24,4
+20,Dental consultation,June,Friday,summer,260,50,11,36,"253,957",95,no,High School,4,yes,no,0,65,168,23,4
+3,No diagnosis,June,Friday,summer,179,51,18,38,"253,957",95,yes,High School,0,yes,no,0,89,170,31,0
+15,Diseases of the musculoskeletal system and connective tissue,June,Monday,summer,291,31,12,40,"253,957",95,no,High School,1,yes,no,1,73,171,25,40
+3,Dental consultation,June,Monday,summer,179,51,18,38,"253,957",95,no,High School,0,yes,no,0,89,170,31,24
+24,Dental consultation,June,Tuesday,summer,246,25,16,41,"253,957",95,no,High School,0,yes,no,0,67,170,23,3
+3,Dental consultation,June,Monday,summer,179,51,18,38,"253,957",95,no,High School,0,yes,no,0,89,170,31,4
+5,Unjustified absence,June,Tuesday,summer,235,20,13,43,"253,957",95,no,High School,1,yes,no,0,106,167,38,8
+3,Dental consultation,June,Monday,winter,179,51,18,38,"253,957",95,no,High School,0,yes,no,0,89,170,31,2
+28,Medical consultation,June,Wednesday,winter,225,26,9,28,"253,957",95,no,High School,1,no,no,2,69,169,24,2
+36,Medical consultation,June,Wednesday,winter,118,13,18,50,"253,957",95,no,High School,1,yes,no,0,98,178,31,2
+3,Mental and behavioural disorders,June,Wednesday,winter,179,51,18,38,"253,957",95,no,High School,0,yes,no,0,89,170,31,8
+22,Factors influencing health status and contact with health services,June,Wednesday,winter,179,26,9,30,"253,957",95,no,Master,0,no,no,0,56,171,19,2
+24,Dental consultation,June,Friday,winter,246,25,16,41,"253,957",95,no,High School,0,yes,no,0,67,170,23,2
+18,Diseases of the digestive system,June,Tuesday,winter,330,16,4,28,"253,957",95,no,Post Graduate,0,no,no,0,84,182,25,1
+1,Diseases of the musculoskeletal system and connective tissue,June,Tuesday,winter,235,11,14,37,"253,957",95,no,Master,1,no,no,1,88,172,29,8
+22,Medical consultation,July,Thursday,winter,179,26,9,30,"230,290",92,no,Master,0,no,no,0,56,171,19,2
+28,Laboratory examination,July,Thursday,winter,225,26,9,28,"230,290",92,no,High School,1,no,no,2,69,169,24,4
+20,Diseases of the musculoskeletal system and connective tissue,July,Friday,winter,260,50,11,36,"230,290",92,no,High School,4,yes,no,0,65,168,23,8
+21,Diseases of the eye and adnexa,July,Monday,winter,268,11,8,33,"230,290",92,no,Post Graduate,0,no,no,0,79,178,25,8
+18,Laboratory examination,July,Friday,winter,330,16,4,28,"230,290",92,no,Post Graduate,0,no,no,0,84,182,25,8
+34,Unjustified absence,July,Friday,winter,118,10,10,37,"230,290",92,no,High School,0,no,no,0,83,172,28,8
+20,Unjustified absence,July,Monday,winter,260,50,11,36,"230,290",92,no,High School,4,yes,no,0,65,168,23,4
+34,Dental consultation,July,Tuesday,winter,118,10,10,37,"230,290",92,no,High School,0,no,no,0,83,172,28,8
+26,"Pregnancy, childbirth and the puerperium",July,Monday,winter,300,26,13,43,"230,290",92,no,High School,2,yes,yes,1,77,175,25,8
+2,Medical consultation,July,Monday,winter,235,29,12,48,"230,290",92,no,High School,1,no,yes,5,88,163,33,1
+24,Dental consultation,July,Tuesday,winter,246,25,16,41,"230,290",92,no,High School,0,yes,no,0,67,170,23,2
+28,Diseases of the circulatory system,July,Tuesday,winter,225,26,9,28,"230,290",92,no,High School,1,no,no,2,69,169,24,112
+3,Dental consultation,July,Tuesday,winter,179,51,18,38,"230,290",92,no,High School,0,yes,no,0,89,170,31,1
+36,Medical consultation,July,Friday,winter,118,13,18,50,"230,290",92,no,High School,1,yes,no,0,98,178,31,1
+10,Patient follow-up,July,Friday,winter,361,52,3,28,"230,290",92,no,High School,1,yes,no,4,80,172,27,8
+11,Patient follow-up,July,Monday,winter,289,36,13,33,"230,290",92,no,High School,2,yes,no,1,90,172,30,8
+5,Unjustified absence,July,Monday,winter,235,20,13,43,"230,290",92,no,High School,1,yes,no,0,106,167,38,8
+24,Dental consultation,July,Tuesday,winter,246,25,16,41,"230,290",92,no,High School,0,yes,no,0,67,170,23,2
+15,Dental consultation,July,Thursday,winter,291,31,12,40,"230,290",92,no,High School,1,yes,no,1,73,171,25,1
+7,Medical consultation,July,Thursday,winter,279,5,14,39,"230,290",92,no,High School,2,yes,yes,0,68,168,24,2
+3,Laboratory examination,August,Thursday,winter,179,51,18,38,"249,797",93,no,High School,0,yes,no,0,89,170,31,4
+17,Laboratory examination,August,Monday,winter,179,22,17,40,"249,797",93,no,Post Graduate,2,no,yes,0,63,170,22,1
+24,Dental consultation,August,Tuesday,winter,246,25,16,41,"249,797",93,no,High School,0,yes,no,0,67,170,23,4
+34,Dental consultation,August,Tuesday,winter,118,10,10,37,"249,797",93,no,High School,0,no,no,0,83,172,28,4
+11,Unjustified absence,August,Tuesday,winter,289,36,13,33,"249,797",93,no,High School,2,yes,no,1,90,172,30,8
+5,Unjustified absence,August,Tuesday,winter,235,20,13,43,"249,797",93,no,High School,1,yes,no,0,106,167,38,8
+15,Dental consultation,August,Thursday,winter,291,31,12,40,"249,797",93,no,High School,1,yes,no,1,73,171,25,4
+3,Laboratory examination,August,Monday,winter,179,51,18,38,"249,797",93,no,High School,0,yes,no,0,89,170,31,4
+17,Laboratory examination,August,Tuesday,winter,179,22,17,40,"249,797",93,no,Post Graduate,2,no,yes,0,63,170,22,8
+18,Medical consultation,August,Thursday,winter,330,16,4,28,"249,797",93,no,Post Graduate,0,no,no,0,84,182,25,16
+1,Medical consultation,August,Tuesday,winter,235,11,14,37,"249,797",93,no,Master,1,no,no,1,88,172,29,4
+24,Dental consultation,August,Tuesday,winter,246,25,16,41,"249,797",93,no,High School,0,yes,no,0,67,170,23,1
+34,Dental consultation,August,Tuesday,winter,118,10,10,37,"249,797",93,no,High School,0,no,no,0,83,172,28,5
+15,Dental consultation,August,Thursday,winter,291,31,12,40,"249,797",93,no,High School,1,yes,no,1,73,171,25,2
+20,Dental consultation,August,Monday,winter,260,50,11,36,"249,797",93,no,High School,4,yes,no,0,65,168,23,3
+24,Dental consultation,September,Tuesday,winter,246,25,16,41,"261,756",87,no,High School,0,yes,no,0,67,170,23,1
+24,Dental consultation,September,Tuesday,winter,246,25,16,41,"261,756",87,no,High School,0,yes,no,0,67,170,23,1
+34,Dental consultation,September,Tuesday,winter,118,10,10,37,"261,756",87,no,High School,0,no,no,0,83,172,28,3
+14,Medical consultation,September,Tuesday,winter,155,12,14,34,"261,756",87,no,High School,2,yes,no,0,95,196,25,2
+15,Dental consultation,September,Thursday,winter,291,31,12,40,"261,756",87,no,High School,1,yes,no,1,73,171,25,2
+22,Medical consultation,September,Friday,winter,179,26,9,30,"261,756",87,no,Master,0,no,no,0,56,171,19,8
+33,Medical consultation,September,Friday,winter,248,25,14,47,"261,756",87,no,High School,2,no,no,1,86,165,32,1
+3,Medical consultation,September,Monday,winter,179,51,18,38,"261,756",87,no,High School,0,yes,no,0,89,170,31,4
+28,Medical consultation,September,Wednesday,winter,225,26,9,28,"261,756",87,no,High School,1,no,no,2,69,169,24,1
+22,Medical consultation,September,Monday,winter,179,26,9,30,"261,756",87,no,Master,0,no,no,0,56,171,19,2
+13,Medical consultation,September,Tuesday,0,369,17,12,31,"261,756",87,no,High School,3,yes,no,0,70,169,25,8
+10,Patient follow-up,September,Tuesday,0,361,52,3,28,"261,756",87,no,High School,1,yes,no,4,80,172,27,8
+32,"Endocrine, nutritional and metabolic diseases",October,Thursday,0,289,48,29,49,"284,853",91,no,High School,0,no,no,2,108,172,36,1
+25,Diseases of the digestive system,October,Thursday,0,235,16,8,32,"284,853",91,no,Master,0,no,no,0,75,178,25,3
+24,Unjustified absence,October,Friday,0,246,25,16,41,"284,853",91,no,High School,0,yes,no,0,67,170,23,8
+32,Diseases of the genitourinary system,October,Wednesday,0,289,48,29,49,"284,853",91,no,High School,0,no,no,2,108,172,36,3
+15,Dental consultation,October,Wednesday,0,291,31,12,40,"284,853",91,no,High School,1,yes,no,1,73,171,25,2
+34,Medical consultation,October,Tuesday,0,118,10,10,37,"284,853",91,no,High School,0,no,no,0,83,172,28,2
+32,Medical consultation,October,Thursday,0,289,48,29,49,"284,853",91,no,High School,0,no,no,2,108,172,36,2
+15,Medical consultation,October,Friday,0,291,31,12,40,"284,853",91,no,High School,1,yes,no,1,73,171,25,1
+28,Medical consultation,October,Tuesday,0,225,26,9,28,"284,853",91,no,High School,1,no,no,2,69,169,24,2
+13,Medical consultation,October,Tuesday,0,369,17,12,31,"284,853",91,no,High School,3,yes,no,0,70,169,25,8
+13,Medical consultation,October,Tuesday,0,369,17,12,31,"284,853",91,no,High School,3,yes,no,0,70,169,25,3
+28,Medical consultation,October,Tuesday,0,225,26,9,28,"284,853",91,no,High School,1,no,no,2,69,169,24,4
+13,Unjustified absence,October,Tuesday,0,369,17,12,31,"284,853",91,no,High School,3,yes,no,0,70,169,25,8
+3,Dental consultation,October,Wednesday,0,179,51,18,38,"284,853",91,no,High School,0,yes,no,0,89,170,31,3
+9,Certain infectious and parasitic diseases,October,Wednesday,0,228,14,16,58,"284,853",91,no,High School,2,no,no,1,65,172,22,1
+15,Medical consultation,October,Wednesday,0,291,31,12,40,"284,853",91,no,High School,1,yes,no,1,73,171,25,1
+13,Diseases of the respiratory system,October,Thursday,0,369,17,12,31,"284,853",91,no,High School,3,yes,no,0,70,169,25,8
+28,Diseases of the musculoskeletal system and connective tissue,October,Thursday,0,225,26,9,28,"284,853",91,no,High School,1,no,no,2,69,169,24,1
+13,Diseases of the respiratory system,October,Friday,0,369,17,12,31,"284,853",91,no,High School,3,yes,no,0,70,169,25,8
+28,Diseases of the respiratory system,October,Friday,0,225,26,9,28,"284,853",91,no,High School,1,no,no,2,69,169,24,3
+6,Medical consultation,October,Monday,0,189,29,13,33,"284,853",91,no,High School,2,no,no,2,69,167,25,8
+25,Diseases of the nervous system,October,Monday,0,235,16,8,32,"284,853",91,no,Master,0,no,no,0,75,178,25,8
+33,Diseases of the respiratory system,October,Monday,0,248,25,14,47,"284,853",91,no,High School,2,no,no,1,86,165,32,8
+28,No diagnosis,October,Monday,0,225,26,9,28,"284,853",91,yes,High School,1,no,no,2,69,169,24,0
+28,Diseases of the musculoskeletal system and connective tissue,October,Tuesday,0,225,26,9,28,"284,853",91,no,High School,1,no,no,2,69,169,24,3
+3,Factors influencing health status and contact with health services,November,Tuesday,0,179,51,18,38,"268,519",93,no,High School,0,yes,no,0,89,170,31,1
+34,Dental consultation,November,Wednesday,0,118,10,10,37,"268,519",93,no,High School,0,no,no,0,83,172,28,3
+18,Neoplasms,November,Wednesday,0,330,16,4,28,"268,519",93,no,Post Graduate,0,no,no,0,84,182,25,24
+3,Dental consultation,November,Friday,0,179,51,18,38,"268,519",93,no,High School,0,yes,no,0,89,170,31,1
+34,Diseases of the circulatory system,November,Tuesday,0,118,10,10,37,"268,519",93,no,High School,0,no,no,0,83,172,28,8
+11,Blood donation,November,Wednesday,0,289,36,13,33,"268,519",93,no,High School,2,yes,no,1,90,172,30,8
+25,Certain infectious and parasitic diseases,November,Friday,0,235,16,8,32,"268,519",93,no,Master,0,no,no,0,75,178,25,8
+28,Medical consultation,November,Friday,0,225,26,9,28,"268,519",93,no,High School,1,no,no,2,69,169,24,4
+10,Patient follow-up,November,Tuesday,0,361,52,3,28,"268,519",93,no,High School,1,yes,no,4,80,172,27,8
+15,Dental consultation,November,Wednesday,0,291,31,12,40,"268,519",93,no,High School,1,yes,no,1,73,171,25,2
+34,Diseases of the musculoskeletal system and connective tissue,November,Thursday,0,118,10,10,37,"268,519",93,no,High School,0,no,no,0,83,172,28,2
+28,Diseases of the genitourinary system,November,Thursday,0,225,26,9,28,"268,519",93,no,High School,1,no,no,2,69,169,24,3
+3,Dental consultation,November,Monday,0,179,51,18,38,"268,519",93,no,High School,0,yes,no,0,89,170,31,1
+34,Medical consultation,November,Monday,0,118,10,10,37,"268,519",93,no,High School,0,no,no,0,83,172,28,8
+34,Diseases of the ear and mastoid process,November,Tuesday,0,118,10,10,37,"268,519",93,no,High School,0,no,no,0,83,172,28,8
+28,Medical consultation,November,Tuesday,0,225,26,9,28,"268,519",93,no,High School,1,no,no,2,69,169,24,2
+15,No diagnosis,November,Tuesday,0,291,31,12,40,"268,519",93,yes,High School,1,yes,no,1,73,171,25,0
+11,No diagnosis,November,Wednesday,0,289,36,13,33,"268,519",93,yes,High School,2,yes,no,1,90,172,30,0
+33,Diseases of the genitourinary system,November,Thursday,0,248,25,14,47,"268,519",93,no,High School,2,no,no,1,86,165,32,4
+5,No diagnosis,November,Thursday,0,235,20,13,43,"268,519",93,yes,High School,1,yes,no,0,106,167,38,0
+28,Medical consultation,November,Friday,0,225,26,9,28,"268,519",93,no,High School,1,no,no,2,69,169,24,2
+13,Unjustified absence,November,Friday,0,369,17,12,31,"268,519",93,no,High School,3,yes,no,0,70,169,25,8
+10,Dental consultation,November,Monday,0,361,52,3,28,"268,519",93,no,High School,1,yes,no,4,80,172,27,2
+3,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,0,179,51,18,38,"280,549",98,no,High School,0,yes,no,0,89,170,31,32
+15,Dental consultation,December,Wednesday,0,291,31,12,40,"280,549",98,no,High School,1,yes,no,1,73,171,25,1
+28,Medical consultation,December,Wednesday,0,225,26,9,28,"280,549",98,no,High School,1,no,no,2,69,169,24,3
+22,Diseases of the musculoskeletal system and connective tissue,December,Friday,0,179,26,9,30,"280,549",98,no,Master,0,no,no,0,56,171,19,1
+28,Medical consultation,December,Friday,0,225,26,9,28,"280,549",98,no,High School,1,no,no,2,69,169,24,3
+28,Medical consultation,December,Wednesday,0,225,26,9,28,"280,549",98,no,High School,1,no,no,2,69,169,24,3
+10,Diseases of the genitourinary system,December,Thursday,0,361,52,3,28,"280,549",98,no,High School,1,yes,no,4,80,172,27,4
+17,"Symptoms, signs and abnormal clinical and laboratory findings",December,Friday,0,179,22,17,40,"280,549",98,no,Post Graduate,2,no,yes,0,63,170,22,2
+5,Unjustified absence,December,Friday,0,235,20,13,43,"280,549",98,no,High School,1,yes,no,0,106,167,38,8
+12,"Symptoms, signs and abnormal clinical and laboratory findings",December,Monday,0,233,51,1,31,"280,549",98,no,Post Graduate,1,yes,no,8,68,178,21,8
+22,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,0,179,26,9,30,"280,549",98,no,Master,0,no,no,0,56,171,19,16
+28,Medical consultation,December,Tuesday,0,225,26,9,28,"280,549",98,no,High School,1,no,no,2,69,169,24,2
+28,Medical consultation,December,Thursday,0,225,26,9,28,"280,549",98,no,High School,1,no,no,2,69,169,24,3
+28,Medical consultation,December,Monday,0,225,26,9,28,"280,549",98,no,High School,1,no,no,2,69,169,24,2
+14,"Symptoms, signs and abnormal clinical and laboratory findings",December,Tuesday,spring,155,12,14,34,"280,549",98,no,High School,2,yes,no,0,95,196,25,80
+22,Diseases of the skin and subcutaneous tissue,January,Monday,spring,179,26,9,30,"313,532",96,no,Master,0,no,no,0,56,171,19,24
+22,Diseases of the skin and subcutaneous tissue,January,Thursday,spring,179,26,9,30,"313,532",96,no,Master,0,no,no,0,56,171,19,16
+17,Laboratory examination,January,Thursday,spring,179,22,17,40,"313,532",96,no,Post Graduate,2,no,yes,0,63,170,22,2
+17,Laboratory examination,January,Friday,spring,179,22,17,40,"313,532",96,no,Post Graduate,2,no,yes,0,63,170,22,2
+22,Diseases of the musculoskeletal system and connective tissue,January,Monday,spring,179,26,9,30,"313,532",96,no,Master,0,no,no,0,56,171,19,3
+17,Laboratory examination,January,Wednesday,spring,179,22,17,40,"313,532",96,no,Post Graduate,2,no,yes,0,63,170,22,2
+32,Diseases of the respiratory system,January,Thursday,spring,289,48,29,49,"313,532",96,no,High School,0,no,no,2,108,172,36,8
+17,"Symptoms, signs and abnormal clinical and laboratory findings",January,Friday,spring,179,22,17,40,"313,532",96,no,Post Graduate,2,no,yes,0,63,170,22,3
+22,Physiotherapy,January,Monday,spring,179,26,9,30,"313,532",96,no,Master,0,no,no,0,56,171,19,2
+14,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,spring,155,12,14,34,"313,532",96,no,High School,2,yes,no,0,95,196,25,8
+22,Physiotherapy,January,Wednesday,spring,179,26,9,30,"313,532",96,no,Master,0,no,no,0,56,171,19,2
+3,Physiotherapy,January,Wednesday,spring,179,51,18,38,"313,532",96,no,High School,0,yes,no,0,89,170,31,3
+11,Diseases of the musculoskeletal system and connective tissue,January,Wednesday,spring,289,36,13,33,"313,532",96,no,High School,2,yes,no,1,90,172,30,8
+3,Physiotherapy,January,Thursday,spring,179,51,18,38,"313,532",96,no,High School,0,yes,no,0,89,170,31,3
+3,Physiotherapy,January,Friday,spring,179,51,18,38,"313,532",96,no,High School,0,yes,no,0,89,170,31,2
+3,Diseases of the musculoskeletal system and connective tissue,February,Tuesday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,8
+28,Medical consultation,February,Tuesday,spring,225,26,9,28,"264,249",97,no,High School,1,no,no,2,69,169,24,3
+33,Certain infectious and parasitic diseases,February,Wednesday,spring,248,25,14,47,"264,249",97,no,High School,2,no,no,1,86,165,32,8
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+28,Dental consultation,February,Thursday,spring,225,26,9,28,"264,249",97,no,High School,1,no,no,2,69,169,24,3
+3,Physiotherapy,February,Thursday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+22,Physiotherapy,February,Thursday,spring,179,26,9,30,"264,249",97,no,Master,0,no,no,0,56,171,19,2
+29,Dental consultation,February,Friday,spring,225,15,15,41,"264,249",97,no,Doctor,2,yes,no,2,94,182,28,2
+3,Physiotherapy,February,Friday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+12,"Injury, poisoning and other consequences of external causes",February,Monday,spring,233,51,1,31,"264,249",97,no,Post Graduate,1,yes,no,8,68,178,21,2
+3,Physiotherapy,February,Monday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+28,Diseases of the eye and adnexa,February,Tuesday,spring,225,26,9,28,"264,249",97,no,High School,1,no,no,2,69,169,24,8
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,3
+3,Physiotherapy,February,Thursday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,3
+28,Laboratory examination,February,Thursday,spring,225,26,9,28,"264,249",97,no,High School,1,no,no,2,69,169,24,3
+22,Diseases of the musculoskeletal system and connective tissue,February,Thursday,spring,179,26,9,30,"264,249",97,no,Master,0,no,no,0,56,171,19,2
+17,Medical consultation,February,Friday,spring,179,22,17,40,"264,249",97,no,Post Graduate,2,no,yes,0,63,170,22,2
+3,Physiotherapy,February,Friday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,3
+12,Diseases of the skin and subcutaneous tissue,February,Wednesday,spring,233,51,1,31,"264,249",97,no,Post Graduate,1,yes,no,8,68,178,21,3
+22,Physiotherapy,February,Wednesday,spring,179,26,9,30,"264,249",97,no,Master,0,no,no,0,56,171,19,2
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+3,Diseases of the musculoskeletal system and connective tissue,February,Thursday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,8
+3,Physiotherapy,February,Friday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+14,Laboratory examination,February,Monday,spring,155,12,14,34,"264,249",97,no,High School,2,yes,no,0,95,196,25,5
+25,Laboratory examination,February,Monday,spring,235,16,8,32,"264,249",97,no,Master,0,no,no,0,75,178,25,3
+3,Physiotherapy,February,Monday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+28,Diseases of the eye and adnexa,February,Monday,spring,225,26,9,28,"264,249",97,no,High School,1,no,no,2,69,169,24,2
+3,Physiotherapy,February,Tuesday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+33,Medical consultation,February,Tuesday,spring,248,25,14,47,"264,249",97,no,High School,2,no,no,1,86,165,32,2
+28,Laboratory examination,February,Tuesday,spring,225,26,9,28,"264,249",97,no,High School,1,no,no,2,69,169,24,2
+3,Physiotherapy,February,Wednesday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+3,Physiotherapy,February,Thursday,spring,179,51,18,38,"264,249",97,no,High School,0,yes,no,0,89,170,31,2
+25,Laboratory examination,February,Friday,spring,235,16,8,32,"264,249",97,no,Master,0,no,no,0,75,178,25,2
+3,Physiotherapy,March,Monday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,2
+33,Medical consultation,March,Monday,spring,248,25,14,47,"222,196",99,no,High School,2,no,no,1,86,165,32,2
+9,Laboratory examination,March,Tuesday,spring,228,14,16,58,"222,196",99,no,High School,2,no,no,1,65,172,22,3
+33,Laboratory examination,March,Tuesday,spring,248,25,14,47,"222,196",99,no,High School,2,no,no,1,86,165,32,3
+9,Diseases of the skin and subcutaneous tissue,March,Tuesday,spring,228,14,16,58,"222,196",99,no,High School,2,no,no,1,65,172,22,112
+3,Physiotherapy,March,Wednesday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,2
+28,Physiotherapy,March,Thursday,spring,225,26,9,28,"222,196",99,no,High School,1,no,no,2,69,169,24,2
+3,Physiotherapy,March,Thursday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+28,Laboratory examination,March,Thursday,spring,225,26,9,28,"222,196",99,no,High School,1,no,no,2,69,169,24,2
+22,Physiotherapy,March,Friday,spring,179,26,9,30,"222,196",99,no,Master,0,no,no,0,56,171,19,3
+25,Laboratory examination,March,Monday,spring,235,16,8,32,"222,196",99,no,Master,0,no,no,0,75,178,25,3
+10,"Injury, poisoning and other consequences of external causes",March,Monday,spring,361,52,3,28,"222,196",99,no,High School,1,yes,no,4,80,172,27,8
+3,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,8
+3,Physiotherapy,March,Wednesday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,2
+3,Physiotherapy,March,Thursday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+22,Physiotherapy,March,Friday,spring,179,26,9,30,"222,196",99,no,Master,0,no,no,0,56,171,19,2
+3,Diseases of the respiratory system,March,Monday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,4
+33,Diseases of the musculoskeletal system and connective tissue,March,Monday,spring,248,25,14,47,"222,196",99,no,High School,2,no,no,1,86,165,32,2
+3,Physiotherapy,March,Monday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+28,Diseases of the eye and adnexa,March,Monday,spring,225,26,9,28,"222,196",99,no,High School,1,no,no,2,69,169,24,8
+3,Physiotherapy,March,Tuesday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,2
+11,Medical consultation,March,Wednesday,spring,289,36,13,33,"222,196",99,no,High School,2,yes,no,1,90,172,30,8
+9,Laboratory examination,March,Wednesday,spring,228,14,16,58,"222,196",99,no,High School,2,no,no,1,65,172,22,2
+3,Physiotherapy,March,Wednesday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,2
+33,Medical consultation,March,Thursday,spring,248,25,14,47,"222,196",99,no,High School,2,no,no,1,86,165,32,3
+3,Physiotherapy,March,Thursday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+22,Medical consultation,March,Friday,spring,179,26,9,30,"222,196",99,no,Master,0,no,no,0,56,171,19,2
+3,Physiotherapy,March,Friday,spring,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+3,Physiotherapy,March,Tuesday,summer,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+16,Medical consultation,March,Wednesday,summer,118,15,24,46,"222,196",99,no,High School,2,yes,yes,0,75,175,25,8
+14,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,summer,155,12,14,34,"222,196",99,no,High School,2,yes,no,0,95,196,25,24
+3,Physiotherapy,March,Wednesday,summer,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+3,Physiotherapy,March,Thursday,summer,179,51,18,38,"222,196",99,no,High School,0,yes,no,0,89,170,31,3
+22,Diseases of the musculoskeletal system and connective tissue,March,Monday,summer,179,26,9,30,"222,196",99,no,Master,0,no,no,0,56,171,19,2
+11,"Injury, poisoning and other consequences of external causes",March,Monday,summer,289,36,13,33,"222,196",99,no,High School,2,yes,no,1,90,172,30,104
+13,Patient follow-up,March,Wednesday,summer,369,17,12,31,"222,196",99,no,High School,3,yes,no,0,70,169,25,8
+28,Diseases of the musculoskeletal system and connective tissue,April,Monday,summer,225,26,9,28,"246,288",91,no,High School,1,no,no,2,69,169,24,8
+34,Diseases of the respiratory system,April,Monday,summer,118,10,10,37,"246,288",91,no,High School,0,no,no,0,83,172,28,8
+10,"Injury, poisoning and other consequences of external causes",April,Tuesday,summer,361,52,3,28,"246,288",91,no,High School,1,yes,no,4,80,172,27,8
+33,"Injury, poisoning and other consequences of external causes",April,Wednesday,summer,248,25,14,47,"246,288",91,no,High School,2,no,no,1,86,165,32,8
+6,Diseases of the musculoskeletal system and connective tissue,April,Thursday,summer,189,29,13,33,"246,288",91,no,High School,2,no,no,2,69,167,25,8
+22,Physiotherapy,April,Friday,summer,179,26,9,30,"246,288",91,no,Master,0,no,no,0,56,171,19,2
+13,Diseases of the eye and adnexa,April,Monday,summer,369,17,12,31,"246,288",91,no,High School,3,yes,no,0,70,169,25,24
+17,Certain conditions originating in the perinatal period,April,Tuesday,summer,179,22,17,40,"246,288",91,no,Post Graduate,2,no,yes,0,63,170,22,2
+36,Medical consultation,April,Tuesday,summer,118,13,18,50,"246,288",91,no,High School,1,yes,no,0,98,178,31,3
+10,Medical consultation,April,Tuesday,summer,361,52,3,28,"246,288",91,no,High School,1,yes,no,4,80,172,27,2
+34,Diseases of the respiratory system,April,Wednesday,summer,118,10,10,37,"246,288",91,no,High School,0,no,no,0,83,172,28,2
+1,Patient follow-up,April,Friday,summer,235,11,14,37,"246,288",91,no,Master,1,no,no,1,88,172,29,8
+22,Physiotherapy,April,Friday,summer,179,26,9,30,"246,288",91,no,Master,0,no,no,0,56,171,19,2
+28,"Injury, poisoning and other consequences of external causes",April,Monday,summer,225,26,9,28,"246,288",91,no,High School,1,no,no,2,69,169,24,8
+25,Certain conditions originating in the perinatal period,April,Tuesday,summer,235,16,8,32,"246,288",91,no,Master,0,no,no,0,75,178,25,3
+22,Physiotherapy,April,Friday,summer,179,26,9,30,"246,288",91,no,Master,0,no,no,0,56,171,19,2
+14,Dental consultation,April,Tuesday,summer,155,12,14,34,"246,288",91,no,High School,2,yes,no,0,95,196,25,4
+28,"Injury, poisoning and other consequences of external causes",April,Thursday,summer,225,26,9,28,"246,288",91,no,High School,1,no,no,2,69,169,24,8
+36,Diseases of the genitourinary system,April,Thursday,summer,118,13,18,50,"246,288",91,no,High School,1,yes,no,0,98,178,31,2
+22,Physiotherapy,April,Friday,summer,179,26,9,30,"246,288",91,no,Master,0,no,no,0,56,171,19,2
+1,Patient follow-up,May,Monday,summer,235,11,14,37,"237,656",99,no,Master,1,no,no,1,88,172,29,8
+29,"Injury, poisoning and other consequences of external causes",May,Wednesday,summer,225,15,15,41,"237,656",99,no,Doctor,2,yes,no,2,94,182,28,3
+25,Dental consultation,May,Wednesday,summer,235,16,8,32,"237,656",99,no,Master,0,no,no,0,75,178,25,2
+34,Diseases of the ear and mastoid process,May,Wednesday,summer,118,10,10,37,"237,656",99,no,High School,0,no,no,0,83,172,28,3
+5,Unjustified absence,May,Wednesday,summer,235,20,13,43,"237,656",99,no,High School,1,yes,no,0,106,167,38,8
+22,Diseases of the musculoskeletal system and connective tissue,May,Thursday,summer,179,26,9,30,"237,656",99,no,Master,0,no,no,0,56,171,19,1
+15,Dental consultation,May,Thursday,summer,291,31,12,40,"237,656",99,no,High School,1,yes,no,1,73,171,25,2
+29,Diseases of the genitourinary system,May,Thursday,summer,225,15,15,41,"237,656",99,no,Doctor,2,yes,no,2,94,182,28,8
+26,"Injury, poisoning and other consequences of external causes",May,Friday,summer,300,26,13,43,"237,656",99,no,High School,2,yes,yes,1,77,175,25,64
+29,Patient follow-up,May,Friday,summer,225,15,15,41,"237,656",99,no,Doctor,2,yes,no,2,94,182,28,8
+22,Physiotherapy,May,Friday,summer,179,26,9,30,"237,656",99,no,Master,0,no,no,0,56,171,19,2
+36,Medical consultation,May,Monday,summer,118,13,18,50,"237,656",99,no,High School,1,yes,no,0,98,178,31,2
+36,Mental and behavioural disorders,May,Tuesday,summer,118,13,18,50,"237,656",99,no,High School,1,yes,no,0,98,178,31,3
+34,Dental consultation,May,Tuesday,summer,118,10,10,37,"237,656",99,no,High School,0,no,no,0,83,172,28,1
+36,No diagnosis,May,Tuesday,summer,118,13,18,50,"237,656",99,yes,High School,1,yes,no,0,98,178,31,0
+22,Physiotherapy,May,Wednesday,summer,179,26,9,30,"237,656",99,no,Master,0,no,no,0,56,171,19,2
+23,No diagnosis,May,Wednesday,summer,378,49,11,36,"237,656",99,yes,High School,2,no,yes,4,65,174,21,0
+17,Certain conditions originating in the perinatal period,May,Friday,summer,179,22,17,40,"237,656",99,no,Post Graduate,2,no,yes,0,63,170,22,1
+14,Diseases of the respiratory system,May,Monday,summer,155,12,14,34,"237,656",99,no,High School,2,yes,no,0,95,196,25,48
+25,Diseases of the respiratory system,May,Monday,summer,235,16,8,32,"237,656",99,no,Master,0,no,no,0,75,178,25,8
+15,Patient follow-up,May,Wednesday,summer,291,31,12,40,"237,656",99,no,High School,1,yes,no,1,73,171,25,8
+17,Diseases of the respiratory system,May,Wednesday,summer,179,22,17,40,"237,656",99,no,Post Graduate,2,no,yes,0,63,170,22,8
+28,Diseases of the nervous system,May,Wednesday,summer,225,26,9,28,"237,656",99,no,High School,1,no,no,2,69,169,24,3
+18,Diseases of the respiratory system,May,Thursday,summer,330,16,4,28,"237,656",99,no,Post Graduate,0,no,no,0,84,182,25,8
+25,Medical consultation,May,Thursday,summer,235,16,8,32,"237,656",99,no,Master,0,no,no,0,75,178,25,2
+15,Dental consultation,May,Thursday,summer,291,31,12,40,"237,656",99,no,High School,1,yes,no,1,73,171,25,2
+22,Physiotherapy,May,Friday,summer,179,26,9,30,"237,656",99,no,Master,0,no,no,0,56,171,19,2
+10,Diseases of the eye and adnexa,May,Monday,summer,361,52,3,28,"237,656",99,no,High School,1,yes,no,4,80,172,27,8
+14,Medical consultation,May,Wednesday,summer,155,12,14,34,"237,656",99,no,High School,2,yes,no,0,95,196,25,2
+17,Laboratory examination,May,Friday,summer,179,22,17,40,"237,656",99,no,Post Graduate,2,no,yes,0,63,170,22,8
+14,Diseases of the respiratory system,May,Friday,summer,155,12,14,34,"237,656",99,no,High School,2,yes,no,0,95,196,25,8
+28,Diseases of the digestive system,May,Monday,summer,225,26,9,28,"237,656",99,no,High School,1,no,no,2,69,169,24,1
+16,Diseases of the eye and adnexa,June,Wednesday,summer,118,15,24,46,"275,089",96,no,High School,2,yes,yes,0,75,175,25,8
+22,Physiotherapy,June,Wednesday,summer,179,26,9,30,"275,089",96,no,Master,0,no,no,0,56,171,19,3
+34,Unjustified absence,June,Friday,summer,118,10,10,37,"275,089",96,no,High School,0,no,no,0,83,172,28,8
+34,Diseases of the respiratory system,June,Wednesday,summer,118,10,10,37,"275,089",96,no,High School,0,no,no,0,83,172,28,8
+23,Patient follow-up,June,Thursday,summer,378,49,11,36,"275,089",96,no,High School,2,no,yes,4,65,174,21,8
+36,"Injury, poisoning and other consequences of external causes",June,Thursday,summer,118,13,18,50,"275,089",96,no,High School,1,yes,no,0,98,178,31,24
+12,"Injury, poisoning and other consequences of external causes",June,Friday,summer,233,51,1,31,"275,089",96,no,Post Graduate,1,yes,no,8,68,178,21,8
+22,Physiotherapy,June,Friday,summer,179,26,9,30,"275,089",96,no,Master,0,no,no,0,56,171,19,2
+2,No diagnosis,June,Monday,summer,235,29,12,48,"275,089",96,yes,High School,1,no,yes,5,88,163,33,0
+21,No diagnosis,June,Monday,summer,268,11,8,33,"275,089",96,yes,Post Graduate,0,no,no,0,79,178,25,0
+36,"Injury, poisoning and other consequences of external causes",June,Thursday,summer,118,13,18,50,"275,089",96,no,High School,1,yes,no,0,98,178,31,3
+22,Diseases of the musculoskeletal system and connective tissue,June,Thursday,summer,179,26,9,30,"275,089",96,no,Master,0,no,no,0,56,171,19,2
+15,Dental consultation,June,Thursday,summer,291,31,12,40,"275,089",96,no,High School,1,yes,no,1,73,171,25,2
+22,Diseases of the musculoskeletal system and connective tissue,June,Monday,winter,179,26,9,30,"275,089",96,no,Master,0,no,no,0,56,171,19,3
+34,Laboratory examination,June,Monday,winter,118,10,10,37,"275,089",96,no,High School,0,no,no,0,83,172,28,3
+12,Patient follow-up,June,Thursday,winter,233,51,1,31,"275,089",96,no,Post Graduate,1,yes,no,8,68,178,21,8
+34,Diseases of the ear and mastoid process,June,Friday,winter,118,10,10,37,"275,089",96,no,High School,0,no,no,0,83,172,28,2
+34,Diseases of the respiratory system,June,Wednesday,winter,118,10,10,37,"275,089",96,no,High School,0,no,no,0,83,172,28,3
+12,Patient follow-up,June,Wednesday,winter,233,51,1,31,"275,089",96,no,Post Graduate,1,yes,no,8,68,178,21,3
+5,Unjustified absence,July,Wednesday,winter,235,20,13,43,"264,604",93,no,High School,1,yes,no,0,106,167,38,4
+12,"Injury, poisoning and other consequences of external causes",July,Friday,winter,233,51,1,31,"264,604",93,no,Post Graduate,1,yes,no,8,68,178,21,2
+9,Diseases of the nervous system,July,Monday,winter,228,14,16,58,"264,604",93,no,High School,2,no,no,1,65,172,22,8
+34,Dental consultation,July,Monday,winter,118,10,10,37,"264,604",93,no,High School,0,no,no,0,83,172,28,4
+9,Diseases of the nervous system,July,Tuesday,winter,228,14,16,58,"264,604",93,no,High School,2,no,no,1,65,172,22,120
+6,Patient follow-up,July,Tuesday,winter,189,29,13,33,"264,604",93,no,High School,2,no,no,2,69,167,25,16
+34,Medical consultation,July,Wednesday,winter,118,10,10,37,"264,604",93,no,High School,0,no,no,0,83,172,28,2
+10,Patient follow-up,July,Wednesday,winter,361,52,3,28,"264,604",93,no,High School,1,yes,no,4,80,172,27,8
+28,Patient follow-up,July,Wednesday,winter,225,26,9,28,"264,604",93,no,High School,1,no,no,2,69,169,24,8
+13,Diseases of the musculoskeletal system and connective tissue,July,Monday,winter,369,17,12,31,"264,604",93,no,High School,3,yes,no,0,70,169,25,80
+11,Diseases of the genitourinary system,July,Tuesday,winter,289,36,13,33,"264,604",93,no,High School,2,yes,no,1,90,172,30,8
+1,Diseases of the digestive system,July,Tuesday,winter,235,11,14,37,"264,604",93,no,Master,1,no,no,1,88,172,29,4
+4,No diagnosis,#N/A,Tuesday,winter,118,14,13,40,"271,219",95,no,High School,1,yes,no,8,98,170,34,0
+8,No diagnosis,#N/A,Wednesday,spring,231,35,14,39,"271,219",95,no,High School,2,yes,no,2,100,170,35,0
+35,No diagnosis,#N/A,Friday,summer,179,45,14,53,"271,219",95,no,High School,1,no,no,1,77,175,25,0
