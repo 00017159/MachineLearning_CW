@@ -2,40 +2,66 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-# ================= LOAD MODEL =================
 model = joblib.load("models/model1.pkl")
 
 st.title("Absenteeism Prediction App")
 st.write("Fill in the employee details to predict **Absenteeism Time (hours)**")
 
-# ================= INPUTS =================
-with st.form("input_form"):
+REASONS = {
+    0: "No diagnosis / Not informed",
+    1: "Certain infectious and parasitic diseases",
+    2: "Neoplasms",
+    3: "Blood & immune disorders",
+    4: "Endocrine / metabolic diseases",
+    5: "Mental and behavioural disorders",
+    6: "Nervous system diseases",
+    7: "Eye diseases",
+    8: "Ear diseases",
+    9: "Circulatory system diseases",
+    10: "Respiratory system diseases",
+    11: "Digestive system diseases",
+    12: "Skin diseases",
+    13: "Musculoskeletal diseases",
+    14: "Genitourinary diseases",
+    15: "Pregnancy / childbirth",
+    16: "Perinatal conditions",
+    17: "Congenital anomalies",
+    18: "Symptoms and abnormal findings",
+    19: "Injuries / poisoning",
+    21: "External causes",
+    22: "Patient follow-up",
+    23: "Medical consultation",
+    24: "Blood donation",
+    25: "Lab examination",
+    26: "Unjustified absence",
+    27: "Physiotherapy",
+    28: "Dental consultation"
+}
 
-    # 1. Reason for absence
-    reason = st.selectbox(
-        "Reason for absence (ICD Code)",
-        list(range(0, 29))
+with st.form("input_form"):
+    
+    # RADIO WITH TEXT LABELS
+    reason = st.radio(
+        "Reason for absence (ICD)",
+        options=list(REASONS.keys()),
+        format_func=lambda x: f"{x} - {REASONS[x]}"
     )
 
-    # 2. Month of absence
     month = st.selectbox(
         "Month of absence",
         list(range(0, 13))
     )
 
-    # 3. Day of the week
     day = st.radio(
-        "Day of the week (0=Mon ... 4=Fri)",
-        [0, 1, 2, 3, 4]
+        "Day of the week (2=Mon ... 6=Fri)",
+        [2, 3, 4, 5, 6]
     )
 
-    # 4. Season
     season = st.radio(
         "Season (0=Winter, 1=Spring, 2=Summer, 3=Autumn)",
         [0, 1, 2, 3]
     )
 
-    # 5. Transportation expense
     transport = st.number_input(
         "Transportation expense",
         min_value=118,
@@ -43,7 +69,6 @@ with st.form("input_form"):
         value=118
     )
 
-    # 6. Distance from Residence to Work
     distance = st.number_input(
         "Distance from Residence to Work (km)",
         min_value=5,
@@ -51,7 +76,6 @@ with st.form("input_form"):
         value=5
     )
 
-    # 7. Service time
     service_time = st.number_input(
         "Service time (years)",
         min_value=1,
@@ -59,7 +83,6 @@ with st.form("input_form"):
         value=1
     )
 
-    # 8. Age
     age = st.number_input(
         "Age",
         min_value=27,
@@ -67,7 +90,6 @@ with st.form("input_form"):
         value=30
     )
 
-    # 9. Work load Average/day
     workload = st.number_input(
         "Work load average/day",
         min_value=0,
@@ -75,58 +97,50 @@ with st.form("input_form"):
         value=10
     )
 
-    # 10. Hit target
     hit_target = st.selectbox(
         "Hit target (%)",
         [81, 87, 88, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]
     )
 
-    # 11. Disciplinary failure
     disciplinary = st.radio(
         "Disciplinary failure",
         [0, 1],
         format_func=lambda x: "No" if x == 0 else "Yes"
     )
 
-    # 12. Education
     education = st.radio(
         "Education",
-        [0, 1, 2, 3],
+        [1, 2, 3,4],
         format_func=lambda x: {
-            0: "Unknown",
-            1: "High School",
-            2: "Graduate",
-            3: "Postgraduate"
+            1: "High school",
+            2: "Postgraduate",
+            3: "Master",
+            4: "Doctor"
         }[x]
     )
 
-    # 13. Son (children)
     son = st.selectbox(
         "Number of children",
         [0, 1, 2, 3, 4]
     )
 
-    # 14. Social drinker
     drinker = st.radio(
         "Social Drinker",
         [0, 1],
         format_func=lambda x: "No" if x == 0 else "Yes"
     )
 
-    # 15. Social smoker
     smoker = st.radio(
         "Social Smoker",
         [0, 1],
         format_func=lambda x: "No" if x == 0 else "Yes"
     )
 
-    # 16. Pet
     pet = st.selectbox(
         "Number of pets",
         [0, 1, 2, 4, 5, 8]
     )
 
-    # 17. Weight
     weight = st.number_input(
         "Weight (kg)",
         min_value=56,
@@ -134,19 +148,16 @@ with st.form("input_form"):
         value=70
     )
 
-    # 18. Height
     height = st.selectbox(
         "Height (cm)",
         [163,165,167,168,169,170,171,172,174,175,178,182,185,196]
     )
 
-    # 19. Body Mass Index
     bmi = st.selectbox(
         "Body Mass Index",
         [19,21,22,23,24,25,27,28,29,30,31,32,33,34,35,36,38]
     )
 
-    # 20. BMI Category
     bmi_cat = st.radio(
         "BMI Category",
         [0, 1, 2],
@@ -160,7 +171,6 @@ with st.form("input_form"):
     button = st.form_submit_button("Predict Absenteeism")
 
 
-# ================= PREDICTION =================
 if button:
 
     input_data = pd.DataFrame([[
