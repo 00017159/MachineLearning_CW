@@ -18,33 +18,33 @@ Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run ui/app.py
 Streamlit app link
 The model is already trained and saved in the corresponding folders.
 https://machinelearningcw-00017159.streamlit.app/
-Folder tree structure 
+Folder tree structure
 MLDA_CW1_17159/
 │
 ├── .devcontainer/
-│   └── devcontainer.json
+│ └── devcontainer.json
 │
 ├── models/
-│   ├── model1.pkl
-│   ├── model2.pkl
-│   └── model3.pkl
+│ ├── model1.pkl
+│ ├── model2.pkl
+│ └── model3.pkl
 │
 ├── paper/
-│   └── Report.docx            # Final written report
+│ └── Report.docx # Final written report
 │
 ├── ui/
-│   └── app.py   # Streamlit / main app script
-├── absenteeismm.ipynb                    # Notebook for EDA + modelling
-├── Absenteeism_at_work.csv               # Original dataset
-├── Updated_dataset - Copy.csv            # Cleaned or modified dataset
-├── Attribute Information.docx            # Dataset documentation
-├── README.md                             # Project documentation
-├── requirements.txt                      # Python dependencies
-└── .gitignore                            # Git ignore rules
+│ └── app.py # Streamlit / main app script
+├── absenteeismm.ipynb # Notebook for EDA + modelling
+├── Absenteeism_at_work.csv # Original dataset
+├── Updated_dataset - Copy.csv # Cleaned or modified dataset
+├── Attribute Information.docx # Dataset documentation
+├── README.md # Project documentation
+├── requirements.txt # Python dependencies
+└── .gitignore # Git ignore rules
 Model evaluation metrics
 MAE
 MSE
@@ -53,9 +53,7 @@ R square
 Hyperparameter tuning
 GridSearchCV is used to find the best combination of hyperparameters for the Random Forest model by testing every possible combination inside rf_params.
 Faster parameter search for SVR with large search space
-Models for training algorithms 
+Models for training algorithms
 Linear Regression
 Random Forest
 Support Vector Regressor
-
-
